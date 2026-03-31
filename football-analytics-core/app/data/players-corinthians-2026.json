@@ -1,0 +1,5587 @@
+{
+  "players": [
+    {
+      "player": {
+        "name": "Memphis Depay",
+        "slug": "memphis-depay",
+        "shortName": "M. Depay",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 78,
+        "jerseyNumber": "10",
+        "height": 176,
+        "dateOfBirth": "1994-02-13T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 75414,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "Memphis",
+        "country": {
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "name": "Netherlands",
+          "slug": "netherlands"
+        },
+        "id": 138833,
+        "shirtNumber": 10,
+        "dateOfBirthTimestamp": 761097600,
+        "contractUntilTimestamp": 1785456000,
+        "proposedMarketValue": 8300000,
+        "proposedMarketValueRaw": {
+          "value": 8300000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Yuri Alberto",
+        "slug": "yuri-alberto",
+        "shortName": "Y. Alberto",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 77,
+        "jerseyNumber": "9",
+        "height": 183,
+        "dateOfBirth": "2001-03-18T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 44951,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "yurialberto",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 905463,
+        "shirtNumber": 9,
+        "dateOfBirthTimestamp": 984873600,
+        "contractUntilTimestamp": 1909008000,
+        "proposedMarketValue": 23000000,
+        "proposedMarketValueRaw": {
+          "value": 23000000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Pedro Raul",
+        "slug": "pedro-raul",
+        "shortName": "P. Raul",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 86,
+        "jerseyNumber": "18",
+        "height": 191,
+        "dateOfBirth": "1996-11-05T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 7107,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 866911,
+        "shirtNumber": 18,
+        "dateOfBirthTimestamp": 847152000,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 3900000,
+        "proposedMarketValueRaw": {
+          "value": 3900000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Gui Negão",
+        "slug": "guilherme-silva-inacio",
+        "shortName": "G. Negão",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "jerseyNumber": "56",
+        "height": 179,
+        "dateOfBirth": "2007-02-06T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 6715,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1922597,
+        "shirtNumber": 56,
+        "dateOfBirthTimestamp": 1170720000,
+        "contractUntilTimestamp": 1909008000,
+        "proposedMarketValue": 7600000,
+        "proposedMarketValueRaw": {
+          "value": 7600000,
+          "currency": "EUR"
+        },
+        "createdByEditor": true
+      }
+    },
+    {
+      "player": {
+        "name": "Vitinho",
+        "slug": "vitinho",
+        "shortName": "Vitinho",
+        "position": "F",
+        "positionsDetailed": [
+          "LW",
+          "AM",
+          "ST"
+        ],
+        "weight": 73,
+        "jerseyNumber": "11",
+        "height": 178,
+        "dateOfBirth": "1993-10-09T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 4089,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 242054,
+        "shirtNumber": 11,
+        "dateOfBirthTimestamp": 750124800,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 915000,
+        "proposedMarketValueRaw": {
+          "value": 915000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Kayke Ferrari",
+        "slug": "kayke-ferrari",
+        "shortName": "Kayke",
+        "position": "F",
+        "positionsDetailed": [
+          "LW"
+        ],
+        "jerseyNumber": "31",
+        "height": 179,
+        "dateOfBirth": "2004-04-28T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 2866,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1411152,
+        "shirtNumber": 31,
+        "dateOfBirthTimestamp": 1083110400,
+        "contractUntilTimestamp": 1814313600,
+        "proposedMarketValue": 720000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Rodrigo Garro",
+        "slug": "rodrigo-garro",
+        "shortName": "R. Garro",
+        "position": "M",
+        "positionsDetailed": [
+          "AM"
+        ],
+        "jerseyNumber": "8",
+        "height": 174,
+        "dateOfBirth": "1998-01-04T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 33004,
+        "deceased": false,
+        "gender": "M",
+        "injury": {
+          "reason": "Tired",
+          "status": "dayToDay",
+          "id": 11804,
+          "startDateTimestamp": 1764547200,
+          "updateDateTimestamp": 1764936068,
+          "endDateTimestamp": 1764979200
+        },
+        "sofascoreId": "rodrigarroo",
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 994454,
+        "shirtNumber": 8,
+        "dateOfBirthTimestamp": 883872000,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 11600000,
+        "proposedMarketValueRaw": {
+          "value": 11600000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "André Carrillo",
+        "slug": "andre-carrillo",
+        "shortName": "A. Carrillo",
+        "position": "M",
+        "positionsDetailed": [
+          "MC"
+        ],
+        "weight": 78,
+        "jerseyNumber": "19",
+        "height": 180,
+        "dateOfBirth": "1991-06-14T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 14530,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "18andrecarrillo",
+        "country": {
+          "alpha2": "PE",
+          "alpha3": "PER",
+          "name": "Peru",
+          "slug": "peru"
+        },
+        "id": 115182,
+        "shirtNumber": 19,
+        "dateOfBirthTimestamp": 676857600,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 845000,
+        "proposedMarketValueRaw": {
+          "value": 845000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Breno Bidon",
+        "slug": "breno-bidon",
+        "shortName": "B. Bidon",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 70,
+        "jerseyNumber": "7",
+        "height": 174,
+        "dateOfBirth": "2005-02-20T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "retired": false,
+        "userCount": 10167,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "BrenoBidon",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1199261,
+        "shirtNumber": 7,
+        "dateOfBirthTimestamp": 1108857600,
+        "contractUntilTimestamp": 1893369600,
+        "proposedMarketValue": 12900000,
+        "proposedMarketValueRaw": {
+          "value": 12900000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Raniele",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raniele",
+        "shortName": "Raniele",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "jerseyNumber": "14",
+        "height": 184,
+        "dateOfBirth": "1996-12-31T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 6235,
+        "gender": "M",
+        "sofascoreId": "R14niele",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 866392,
+        "shirtNumber": 14,
+        "dateOfBirthTimestamp": 851990400,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 3200000,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Allan",
+        "slug": "allan",
+        "shortName": "Allan",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 70,
+        "jerseyNumber": "29",
+        "height": 172,
+        "dateOfBirth": "1997-03-03T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "retired": false,
+        "userCount": 5347,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 828839,
+        "shirtNumber": 29,
+        "dateOfBirthTimestamp": 857347200,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 2700000,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Kaio César",
+        "firstName": "Kaio César",
+        "lastName": "",
+        "slug": "kaio-cesar",
+        "shortName": "Kaio César",
+        "position": "M",
+        "positionsDetailed": [
+          "RW"
+        ],
+        "jerseyNumber": "37",
+        "height": 168,
+        "dateOfBirth": "2004-02-15T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 5196,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1396009,
+        "shirtNumber": 37,
+        "dateOfBirthTimestamp": 1076803200,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 4400000,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Charles",
+        "slug": "charles",
+        "shortName": "Charles",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 81,
+        "jerseyNumber": "35",
+        "height": 187,
+        "dateOfBirth": "1996-06-19T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 3621,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 845178,
+        "shirtNumber": 35,
+        "dateOfBirthTimestamp": 835142400,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 970000,
+        "proposedMarketValueRaw": {
+          "value": 970000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Matheus Pereira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pereira-matheus",
+        "shortName": "M. Pereira",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 68,
+        "jerseyNumber": "23",
+        "height": 181,
+        "dateOfBirth": "1998-02-25T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 3545,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 795268,
+        "shirtNumber": 23,
+        "dateOfBirthTimestamp": 888364800,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 1200000,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Alex Santana",
+        "slug": "alex-santana",
+        "shortName": "A. Santana",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "jerseyNumber": "80",
+        "height": 182,
+        "dateOfBirth": "1995-05-13T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 2733,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 358166,
+        "shirtNumber": 80,
+        "dateOfBirthTimestamp": 800323200,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 1200000,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "André Luiz",
+        "firstName": "André Luiz",
+        "slug": "andre-luiz",
+        "shortName": "A. Luiz",
+        "position": "M",
+        "jerseyNumber": "49",
+        "height": 181,
+        "dateOfBirth": "2006-06-20T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 2652,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1647612,
+        "shirtNumber": 49,
+        "dateOfBirthTimestamp": 1150761600,
+        "contractUntilTimestamp": 1893369600
+      }
+    },
+    {
+      "player": {
+        "name": "Dieguinho",
+        "firstName": "Diego",
+        "lastName": "da Cruz Lopes",
+        "slug": "diego-da-cruz-lopes",
+        "shortName": "Dieguinho",
+        "position": "M",
+        "positionsDetailed": [
+          "RW"
+        ],
+        "jerseyNumber": "61",
+        "height": 170,
+        "dateOfBirth": "2007-09-16T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 2565,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1916131,
+        "shirtNumber": 61,
+        "dateOfBirthTimestamp": 1189900800,
+        "contractUntilTimestamp": 1893369600,
+        "proposedMarketValue": 1500000,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "createdByEditor": true
+      }
+    },
+    {
+      "player": {
+        "name": "Zakaria Labyad",
+        "slug": "zakaria-labyad",
+        "shortName": "Z. Labyad",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "ST"
+        ],
+        "weight": 65,
+        "height": 173,
+        "dateOfBirth": "1993-03-09T00:00:00+00:00",
+        "preferredFoot": "Both",
+        "userCount": 1858,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "name": "Morocco",
+          "slug": "morocco"
+        },
+        "id": 106142,
+        "dateOfBirthTimestamp": 731635200,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 470000,
+        "proposedMarketValueRaw": {
+          "value": 470000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Bahia",
+        "slug": "luiz-gustavo-bahia",
+        "shortName": "Bahia",
+        "team": {
+          "name": "Corinthians U20",
+          "slug": "corinthians-u20",
+          "shortName": "Corinthians U20",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "U20 Brasileiro",
+            "slug": "u20-brasileiro",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "uniqueTournament": {
+              "name": "U20 Campeonato Brasileiro",
+              "slug": "u20-campeonato-brasileiro",
+              "primaryColorHex": "#000326",
+              "secondaryColorHex": "#acfe04",
+              "category": {
+                "name": "Brazil",
+                "slug": "brazil",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "country": {
+                  "alpha2": "BR",
+                  "alpha3": "BRA",
+                  "name": "Brazil",
+                  "slug": "brazil"
+                },
+                "id": 13,
+                "flag": "brazil",
+                "alpha2": "BR"
+              },
+              "userCount": 5785,
+              "country": {},
+              "id": 9233,
+              "displayInverseHomeAwayTeams": false
+            },
+            "priority": 0,
+            "isLive": false,
+            "id": 73456
+          },
+          "primaryUniqueTournament": {
+            "name": "U20 Campeonato Brasileiro",
+            "slug": "u20-campeonato-brasileiro",
+            "primaryColorHex": "#000326",
+            "secondaryColorHex": "#acfe04",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "userCount": 5785,
+            "country": {},
+            "id": 9233,
+            "displayInverseHomeAwayTeams": false
+          },
+          "userCount": 23894,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "parentTeam": {
+            "name": "Corinthians",
+            "slug": "corinthians",
+            "shortName": "Corinthians",
+            "gender": "M",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "tournament": {
+              "name": "Brasileirão Betano",
+              "slug": "brasileirao-serie-a",
+              "category": {
+                "name": "Brazil",
+                "slug": "brazil",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "country": {
+                  "alpha2": "BR",
+                  "alpha3": "BRA",
+                  "name": "Brazil",
+                  "slug": "brazil"
+                },
+                "id": 13,
+                "flag": "brazil",
+                "alpha2": "BR"
+              },
+              "uniqueTournament": {
+                "name": "Brasileirão Betano",
+                "slug": "brasileirao-serie-a",
+                "primaryColorHex": "#C7FF00",
+                "secondaryColorHex": "#969696",
+                "category": {
+                  "name": "Brazil",
+                  "slug": "brazil",
+                  "sport": {
+                    "name": "Football",
+                    "slug": "football",
+                    "id": 1
+                  },
+                  "country": {
+                    "alpha2": "BR",
+                    "alpha3": "BRA",
+                    "name": "Brazil",
+                    "slug": "brazil"
+                  },
+                  "id": 13,
+                  "flag": "brazil",
+                  "alpha2": "BR",
+                  "fieldTranslations": {
+                    "nameTranslation": {},
+                    "shortNameTranslation": {}
+                  }
+                },
+                "userCount": 305174,
+                "country": {},
+                "id": 325,
+                "displayInverseHomeAwayTeams": false
+              },
+              "priority": 511,
+              "isLive": false,
+              "id": 83
+            },
+            "primaryUniqueTournament": {
+              "name": "Brasileirão Betano",
+              "slug": "brasileirao-serie-a",
+              "primaryColorHex": "#C7FF00",
+              "secondaryColorHex": "#969696",
+              "category": {
+                "name": "Brazil",
+                "slug": "brazil",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "country": {
+                  "alpha2": "BR",
+                  "alpha3": "BRA",
+                  "name": "Brazil",
+                  "slug": "brazil"
+                },
+                "id": 13,
+                "flag": "brazil",
+                "alpha2": "BR"
+              },
+              "userCount": 305174,
+              "country": {},
+              "id": 325,
+              "displayInverseHomeAwayTeams": false
+            },
+            "userCount": 556017,
+            "nameCode": "COR",
+            "disabled": false,
+            "national": false,
+            "type": 0,
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 1957,
+            "teamColors": {
+              "primary": "#ffffff",
+              "secondary": "#000000",
+              "text": "#000000"
+            },
+            "fieldTranslations": {
+              "nameTranslation": {},
+              "shortNameTranslation": {}
+            }
+          },
+          "type": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 72016,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          }
+        },
+        "position": "M",
+        "positionsDetailed": [
+          "MC"
+        ],
+        "jerseyNumber": "54",
+        "height": 178,
+        "dateOfBirth": "2006-01-02T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 1705,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1482358,
+        "shirtNumber": 54,
+        "dateOfBirthTimestamp": 1136160000,
+        "contractUntilTimestamp": 1822262400
+      }
+    },
+    {
+      "player": {
+        "name": "Matheuzinho",
+        "slug": "matheuzinho",
+        "shortName": "Matheuzinho",
+        "position": "D",
+        "positionsDetailed": [
+          "DR",
+          "MR"
+        ],
+        "jerseyNumber": "2",
+        "height": 171,
+        "dateOfBirth": "2000-09-08T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 7354,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "mateuzinhoo",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 931540,
+        "shirtNumber": 2,
+        "dateOfBirthTimestamp": 968371200,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 6200000,
+        "proposedMarketValueRaw": {
+          "value": 6200000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Matheus Bidu",
+        "slug": "matheus-bidu",
+        "shortName": "M. Bidu",
+        "position": "D",
+        "positionsDetailed": [
+          "DL",
+          "ML"
+        ],
+        "weight": 72,
+        "jerseyNumber": "21",
+        "height": 172,
+        "dateOfBirth": "1999-05-04T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 6350,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 981703,
+        "shirtNumber": 21,
+        "dateOfBirthTimestamp": 925776000,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 3100000,
+        "proposedMarketValueRaw": {
+          "value": 3100000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Gustavo Henrique",
+        "slug": "gustavo-henrique",
+        "shortName": "G. Henrique",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 89,
+        "jerseyNumber": "13",
+        "height": 195,
+        "dateOfBirth": "1993-03-24T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 5525,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 243181,
+        "shirtNumber": 13,
+        "dateOfBirthTimestamp": 732931200,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 725000,
+        "proposedMarketValueRaw": {
+          "value": 725000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Gabriel Paulista",
+        "slug": "gabriel-paulista",
+        "shortName": "G. Paulista",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 72,
+        "jerseyNumber": "3",
+        "height": 187,
+        "dateOfBirth": "1990-11-26T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 5472,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 124737,
+        "shirtNumber": 3,
+        "dateOfBirthTimestamp": 659577600,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 730000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "André Ramalho",
+        "slug": "andre-ramalho",
+        "shortName": "A. Ramalho",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 78,
+        "jerseyNumber": "5",
+        "height": 182,
+        "dateOfBirth": "1992-02-16T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 5391,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 148155,
+        "shirtNumber": 5,
+        "dateOfBirthTimestamp": 698198400,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 1200000,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Fabrizio Angileri",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fabrizio-angileri",
+        "shortName": "F. Angileri",
+        "position": "D",
+        "positionsDetailed": [
+          "DL"
+        ],
+        "weight": 84,
+        "jerseyNumber": "26",
+        "height": 185,
+        "dateOfBirth": "1994-03-15T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 4494,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 311462,
+        "shirtNumber": 26,
+        "dateOfBirthTimestamp": 763689600,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 755000,
+        "proposedMarketValueRaw": {
+          "value": 755000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "João Pedro Tchoca",
+        "slug": "joao-pedro",
+        "shortName": "J. Pedro",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 82,
+        "jerseyNumber": "4",
+        "height": 192,
+        "dateOfBirth": "2003-12-31T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 3499,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1411150,
+        "shirtNumber": 4,
+        "dateOfBirthTimestamp": 1072828800,
+        "contractUntilTimestamp": 1924905600,
+        "proposedMarketValue": 1900000,
+        "proposedMarketValueRaw": {
+          "value": 1900000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Hugo",
+        "slug": "hugo",
+        "shortName": "Hugo",
+        "position": "D",
+        "positionsDetailed": [
+          "DL"
+        ],
+        "jerseyNumber": "46",
+        "height": 179,
+        "dateOfBirth": "1997-08-29T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 3190,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1017827,
+        "shirtNumber": 46,
+        "dateOfBirthTimestamp": 872812800,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 1100000,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Pedro Milans",
+        "firstName": "",
+        "lastName": "",
+        "slug": "milans-pedro",
+        "shortName": "P. Milans",
+        "position": "D",
+        "positionsDetailed": [
+          "DR"
+        ],
+        "jerseyNumber": "20",
+        "height": 171,
+        "dateOfBirth": "2002-03-24T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 1851,
+        "gender": "M",
+        "country": {
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "name": "Uruguay",
+          "slug": "uruguay"
+        },
+        "id": 985809,
+        "shirtNumber": 20,
+        "dateOfBirthTimestamp": 1016928000,
+        "contractUntilTimestamp": 1893369600,
+        "proposedMarketValue": 1400000,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Renato Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "renato-santos",
+        "shortName": "R. Santos",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "jerseyNumber": "41",
+        "height": 188,
+        "dateOfBirth": "2004-10-11T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 868,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1411159,
+        "shirtNumber": 41,
+        "dateOfBirthTimestamp": 1097452800,
+        "contractUntilTimestamp": 1816992000,
+        "proposedMarketValue": 480000,
+        "proposedMarketValueRaw": {
+          "value": 480000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Hugo Souza",
+        "slug": "hugo-souza",
+        "shortName": "H. Souza",
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "jerseyNumber": "1",
+        "height": 199,
+        "dateOfBirth": "1999-01-31T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 25831,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "hugosouza",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 950454,
+        "shirtNumber": 1,
+        "dateOfBirthTimestamp": 917740800,
+        "contractUntilTimestamp": 1924905600,
+        "proposedMarketValue": 9700000,
+        "proposedMarketValueRaw": {
+          "value": 9700000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Matheus Donelli",
+        "slug": "matheus-donelli",
+        "shortName": "M. Donelli",
+        "team": {
+          "name": "Shabab Al-Ahli Dubai",
+          "slug": "shabab-al-ahli-dubai",
+          "shortName": "Shabab Al-Ahli",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Pro League",
+            "slug": "uae-pro-league",
+            "category": {
+              "name": "United Arab Emirates",
+              "slug": "united-arab-emirates",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "AE",
+                "alpha3": "ARE",
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates"
+              },
+              "id": 299,
+              "flag": "united-arab-emirates",
+              "alpha2": "AE"
+            },
+            "uniqueTournament": {
+              "name": "UAE Pro League",
+              "slug": "uae-pro-league",
+              "primaryColorHex": "#70459b",
+              "secondaryColorHex": "#5fb4b7",
+              "category": {
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "country": {
+                  "alpha2": "AE",
+                  "alpha3": "ARE",
+                  "name": "United Arab Emirates",
+                  "slug": "united-arab-emirates"
+                },
+                "id": 299,
+                "flag": "united-arab-emirates",
+                "alpha2": "AE"
+              },
+              "userCount": 8324,
+              "country": {},
+              "id": 971,
+              "displayInverseHomeAwayTeams": false
+            },
+            "priority": 24,
+            "isLive": false,
+            "id": 3608
+          },
+          "primaryUniqueTournament": {
+            "name": "UAE Pro League",
+            "slug": "uae-pro-league",
+            "primaryColorHex": "#70459b",
+            "secondaryColorHex": "#5fb4b7",
+            "category": {
+              "name": "United Arab Emirates",
+              "slug": "united-arab-emirates",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "AE",
+                "alpha3": "ARE",
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates"
+              },
+              "id": 299,
+              "flag": "united-arab-emirates",
+              "alpha2": "AE"
+            },
+            "userCount": 8324,
+            "country": {},
+            "id": 971,
+            "displayInverseHomeAwayTeams": false
+          },
+          "userCount": 28694,
+          "nameCode": "SAH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "AE",
+            "alpha3": "ARE",
+            "name": "United Arab Emirates",
+            "slug": "united-arab-emirates"
+          },
+          "id": 264111,
+          "teamColors": {
+            "primary": "#ff0000",
+            "secondary": "#b21529",
+            "text": "#b21529"
+          }
+        },
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "jerseyNumber": "32",
+        "height": 187,
+        "dateOfBirth": "2002-05-17T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 3340,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1002609,
+        "shirtNumber": 32,
+        "dateOfBirthTimestamp": 1021593600,
+        "contractUntilTimestamp": 1845936000,
+        "proposedMarketValue": 1500000,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Felipe Longo",
+        "slug": "felipe-longo",
+        "shortName": "F. Longo",
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "weight": 88,
+        "jerseyNumber": "40",
+        "height": 189,
+        "dateOfBirth": "2005-03-05T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 2291,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1485272,
+        "shirtNumber": 40,
+        "dateOfBirthTimestamp": 1109980800,
+        "contractUntilTimestamp": 1869523200,
+        "proposedMarketValue": 475000,
+        "proposedMarketValueRaw": {
+          "value": 475000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Kauê",
+        "firstName": "Kauê",
+        "lastName": "",
+        "slug": "kaue",
+        "shortName": "Kauê",
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "weight": 95,
+        "jerseyNumber": "51",
+        "height": 190,
+        "dateOfBirth": "2004-02-08T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 1706,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1382923,
+        "shirtNumber": 51,
+        "dateOfBirthTimestamp": 1076198400,
+        "contractUntilTimestamp": 1893369600
+      }
+    }
+  ],
+  "foreignPlayers": [
+    {
+      "player": {
+        "name": "Fabrizio Angileri",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fabrizio-angileri",
+        "shortName": "F. Angileri",
+        "position": "D",
+        "positionsDetailed": [
+          "DL"
+        ],
+        "weight": 84,
+        "jerseyNumber": "26",
+        "height": 185,
+        "dateOfBirth": "1994-03-15T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 4494,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 311462,
+        "shirtNumber": 26,
+        "dateOfBirthTimestamp": 763689600,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 755000,
+        "proposedMarketValueRaw": {
+          "value": 755000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Rodrigo Garro",
+        "slug": "rodrigo-garro",
+        "shortName": "R. Garro",
+        "position": "M",
+        "positionsDetailed": [
+          "AM"
+        ],
+        "jerseyNumber": "8",
+        "height": 174,
+        "dateOfBirth": "1998-01-04T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 33004,
+        "deceased": false,
+        "gender": "M",
+        "injury": {
+          "reason": "Tired",
+          "status": "dayToDay",
+          "id": 11804,
+          "startDateTimestamp": 1764547200,
+          "updateDateTimestamp": 1764936068,
+          "endDateTimestamp": 1764979200
+        },
+        "sofascoreId": "rodrigarroo",
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 994454,
+        "shirtNumber": 8,
+        "dateOfBirthTimestamp": 883872000,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 11600000,
+        "proposedMarketValueRaw": {
+          "value": 11600000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Zakaria Labyad",
+        "slug": "zakaria-labyad",
+        "shortName": "Z. Labyad",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "ST"
+        ],
+        "weight": 65,
+        "height": 173,
+        "dateOfBirth": "1993-03-09T00:00:00+00:00",
+        "preferredFoot": "Both",
+        "userCount": 1858,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "name": "Morocco",
+          "slug": "morocco"
+        },
+        "id": 106142,
+        "dateOfBirthTimestamp": 731635200,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 470000,
+        "proposedMarketValueRaw": {
+          "value": 470000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Memphis Depay",
+        "slug": "memphis-depay",
+        "shortName": "M. Depay",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 78,
+        "jerseyNumber": "10",
+        "height": 176,
+        "dateOfBirth": "1994-02-13T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 75414,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "Memphis",
+        "country": {
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "name": "Netherlands",
+          "slug": "netherlands"
+        },
+        "id": 138833,
+        "shirtNumber": 10,
+        "dateOfBirthTimestamp": 761097600,
+        "contractUntilTimestamp": 1785456000,
+        "proposedMarketValue": 8300000,
+        "proposedMarketValueRaw": {
+          "value": 8300000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "André Carrillo",
+        "slug": "andre-carrillo",
+        "shortName": "A. Carrillo",
+        "position": "M",
+        "positionsDetailed": [
+          "MC"
+        ],
+        "weight": 78,
+        "jerseyNumber": "19",
+        "height": 180,
+        "dateOfBirth": "1991-06-14T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 14530,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "18andrecarrillo",
+        "country": {
+          "alpha2": "PE",
+          "alpha3": "PER",
+          "name": "Peru",
+          "slug": "peru"
+        },
+        "id": 115182,
+        "shirtNumber": 19,
+        "dateOfBirthTimestamp": 676857600,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 845000,
+        "proposedMarketValueRaw": {
+          "value": 845000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Pedro Milans",
+        "firstName": "",
+        "lastName": "",
+        "slug": "milans-pedro",
+        "shortName": "P. Milans",
+        "position": "D",
+        "positionsDetailed": [
+          "DR"
+        ],
+        "jerseyNumber": "20",
+        "height": 171,
+        "dateOfBirth": "2002-03-24T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 1851,
+        "gender": "M",
+        "country": {
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "name": "Uruguay",
+          "slug": "uruguay"
+        },
+        "id": 985809,
+        "shirtNumber": 20,
+        "dateOfBirthTimestamp": 1016928000,
+        "contractUntilTimestamp": 1893369600,
+        "proposedMarketValue": 1400000,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        }
+      }
+    }
+  ],
+  "nationalPlayers": [
+    {
+      "player": {
+        "name": "Memphis Depay",
+        "slug": "memphis-depay",
+        "shortName": "M. Depay",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 78,
+        "jerseyNumber": "10",
+        "height": 176,
+        "dateOfBirth": "1994-02-13T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 75414,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "Memphis",
+        "country": {
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "name": "Netherlands",
+          "slug": "netherlands"
+        },
+        "id": 138833,
+        "shirtNumber": 10,
+        "dateOfBirthTimestamp": 761097600,
+        "contractUntilTimestamp": 1785456000,
+        "proposedMarketValue": 8300000,
+        "proposedMarketValueRaw": {
+          "value": 8300000,
+          "currency": "EUR"
+        }
+      }
+    },
+    {
+      "player": {
+        "name": "Hugo Souza",
+        "slug": "hugo-souza",
+        "shortName": "H. Souza",
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "jerseyNumber": "1",
+        "height": 199,
+        "dateOfBirth": "1999-01-31T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 25831,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "hugosouza",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 950454,
+        "shirtNumber": 1,
+        "dateOfBirthTimestamp": 917740800,
+        "contractUntilTimestamp": 1924905600,
+        "proposedMarketValue": 9700000,
+        "proposedMarketValueRaw": {
+          "value": 9700000,
+          "currency": "EUR"
+        }
+      }
+    }
+  ],
+  "supportStaff": [],
+  "playerPreviousTeam": [
+    {
+      "player": {
+        "name": "Matheus Donelli",
+        "slug": "matheus-donelli",
+        "shortName": "M. Donelli",
+        "team": {
+          "name": "Shabab Al-Ahli Dubai",
+          "slug": "shabab-al-ahli-dubai",
+          "shortName": "Shabab Al-Ahli",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "tournament": {
+            "name": "Pro League",
+            "slug": "uae-pro-league",
+            "category": {
+              "name": "United Arab Emirates",
+              "slug": "united-arab-emirates",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "AE",
+                "alpha3": "ARE",
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates"
+              },
+              "id": 299,
+              "flag": "united-arab-emirates",
+              "alpha2": "AE"
+            },
+            "uniqueTournament": {
+              "name": "UAE Pro League",
+              "slug": "uae-pro-league",
+              "primaryColorHex": "#70459b",
+              "secondaryColorHex": "#5fb4b7",
+              "category": {
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates",
+                "sport": {
+                  "name": "Football",
+                  "slug": "football",
+                  "id": 1
+                },
+                "country": {
+                  "alpha2": "AE",
+                  "alpha3": "ARE",
+                  "name": "United Arab Emirates",
+                  "slug": "united-arab-emirates"
+                },
+                "id": 299,
+                "flag": "united-arab-emirates",
+                "alpha2": "AE"
+              },
+              "userCount": 8324,
+              "country": {},
+              "id": 971,
+              "displayInverseHomeAwayTeams": false
+            },
+            "priority": 24,
+            "isLive": false,
+            "id": 3608
+          },
+          "primaryUniqueTournament": {
+            "name": "UAE Pro League",
+            "slug": "uae-pro-league",
+            "primaryColorHex": "#70459b",
+            "secondaryColorHex": "#5fb4b7",
+            "category": {
+              "name": "United Arab Emirates",
+              "slug": "united-arab-emirates",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "AE",
+                "alpha3": "ARE",
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates"
+              },
+              "id": 299,
+              "flag": "united-arab-emirates",
+              "alpha2": "AE"
+            },
+            "userCount": 8324,
+            "country": {},
+            "id": 971,
+            "displayInverseHomeAwayTeams": false
+          },
+          "userCount": 28694,
+          "nameCode": "SAH",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "AE",
+            "alpha3": "ARE",
+            "name": "United Arab Emirates",
+            "slug": "united-arab-emirates"
+          },
+          "id": 264111,
+          "teamColors": {
+            "primary": "#ff0000",
+            "secondary": "#b21529",
+            "text": "#b21529"
+          }
+        },
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "jerseyNumber": "32",
+        "height": 187,
+        "dateOfBirth": "2002-05-17T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 3340,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1002609,
+        "shirtNumber": 32,
+        "dateOfBirthTimestamp": 1021593600,
+        "contractUntilTimestamp": 1845936000,
+        "proposedMarketValue": 1500000,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Shabab Al-Ahli Dubai",
+        "slug": "shabab-al-ahli-dubai",
+        "shortName": "Shabab Al-Ahli",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Pro League",
+          "slug": "uae-pro-league",
+          "category": {
+            "name": "United Arab Emirates",
+            "slug": "united-arab-emirates",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "AE",
+              "alpha3": "ARE",
+              "name": "United Arab Emirates",
+              "slug": "united-arab-emirates"
+            },
+            "id": 299,
+            "flag": "united-arab-emirates",
+            "alpha2": "AE"
+          },
+          "uniqueTournament": {
+            "name": "UAE Pro League",
+            "slug": "uae-pro-league",
+            "primaryColorHex": "#70459b",
+            "secondaryColorHex": "#5fb4b7",
+            "category": {
+              "name": "United Arab Emirates",
+              "slug": "united-arab-emirates",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "AE",
+                "alpha3": "ARE",
+                "name": "United Arab Emirates",
+                "slug": "united-arab-emirates"
+              },
+              "id": 299,
+              "flag": "united-arab-emirates",
+              "alpha2": "AE"
+            },
+            "userCount": 8324,
+            "country": {},
+            "id": 971,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 24,
+          "isLive": false,
+          "id": 3608
+        },
+        "primaryUniqueTournament": {
+          "name": "UAE Pro League",
+          "slug": "uae-pro-league",
+          "primaryColorHex": "#70459b",
+          "secondaryColorHex": "#5fb4b7",
+          "category": {
+            "name": "United Arab Emirates",
+            "slug": "united-arab-emirates",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "AE",
+              "alpha3": "ARE",
+              "name": "United Arab Emirates",
+              "slug": "united-arab-emirates"
+            },
+            "id": 299,
+            "flag": "united-arab-emirates",
+            "alpha2": "AE"
+          },
+          "userCount": 8324,
+          "country": {},
+          "id": 971,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 28694,
+        "nameCode": "SAH",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "AE",
+          "alpha3": "ARE",
+          "name": "United Arab Emirates",
+          "slug": "united-arab-emirates"
+        },
+        "id": 264111,
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#b21529",
+          "text": "#b21529"
+        }
+      },
+      "transferDate": "2026-06-30T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Zakaria Labyad",
+        "slug": "zakaria-labyad",
+        "shortName": "Z. Labyad",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "ST"
+        ],
+        "weight": 65,
+        "height": 173,
+        "dateOfBirth": "1993-03-09T00:00:00+00:00",
+        "preferredFoot": "Both",
+        "userCount": 1858,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "name": "Morocco",
+          "slug": "morocco"
+        },
+        "id": 106142,
+        "dateOfBirthTimestamp": 731635200,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 470000,
+        "proposedMarketValueRaw": {
+          "value": 470000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Dalian Yingbo FC",
+        "slug": "dalian-young-boy-fc",
+        "shortName": "Dalian Yingbo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "primaryUniqueTournament": {
+          "name": "Chinese Super League",
+          "slug": "cfa-super-league",
+          "primaryColorHex": "#f16327",
+          "secondaryColorHex": "#bc0416",
+          "category": {
+            "name": "China",
+            "slug": "china",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "CN",
+              "alpha3": "CHN",
+              "name": "China",
+              "slug": "china"
+            },
+            "id": 99,
+            "flag": "china",
+            "alpha2": "CN"
+          },
+          "userCount": 15724,
+          "country": {},
+          "id": 649,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 5084,
+        "nameCode": "DAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "CN",
+          "alpha3": "CHN",
+          "name": "China",
+          "slug": "china"
+        },
+        "id": 474992,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2026-02-20T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Fabrizio Angileri",
+        "firstName": "",
+        "lastName": "",
+        "slug": "fabrizio-angileri",
+        "shortName": "F. Angileri",
+        "position": "D",
+        "positionsDetailed": [
+          "DL"
+        ],
+        "weight": 84,
+        "jerseyNumber": "26",
+        "height": 185,
+        "dateOfBirth": "1994-03-15T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 4494,
+        "gender": "M",
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 311462,
+        "shirtNumber": 26,
+        "dateOfBirthTimestamp": 763689600,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 755000,
+        "proposedMarketValueRaw": {
+          "value": 755000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "No team",
+        "slug": "no-team",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 11,
+        "nameCode": "NTE",
+        "disabled": true,
+        "national": false,
+        "type": 0,
+        "country": {},
+        "id": 241802,
+        "teamColors": {
+          "primary": "#d0d0d0",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2026-02-11T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Allan",
+        "slug": "allan",
+        "shortName": "Allan",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 70,
+        "jerseyNumber": "29",
+        "height": 172,
+        "dateOfBirth": "1997-03-03T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "retired": false,
+        "userCount": 5347,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 828839,
+        "shirtNumber": 29,
+        "dateOfBirthTimestamp": 857347200,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 2700000,
+        "proposedMarketValueRaw": {
+          "value": 2700000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Flamengo",
+        "slug": "flamengo",
+        "shortName": "Flamengo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "primaryUniqueTournament": {
+          "name": "Brasileirão Betano",
+          "slug": "brasileirao-serie-a",
+          "primaryColorHex": "#C7FF00",
+          "secondaryColorHex": "#969696",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 305174,
+          "country": {},
+          "id": 325,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 979209,
+        "nameCode": "FLA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 5981,
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2026-02-06T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Kaio César",
+        "firstName": "Kaio César",
+        "lastName": "",
+        "slug": "kaio-cesar",
+        "shortName": "Kaio César",
+        "position": "M",
+        "positionsDetailed": [
+          "RW"
+        ],
+        "jerseyNumber": "37",
+        "height": 168,
+        "dateOfBirth": "2004-02-15T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 5196,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1396009,
+        "shirtNumber": 37,
+        "dateOfBirthTimestamp": 1076803200,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 4400000,
+        "proposedMarketValueRaw": {
+          "value": 4400000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Al-Hilal",
+        "slug": "al-hilal",
+        "shortName": "Al-Hilal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Saudi Pro League",
+          "slug": "saudi-pro-league",
+          "category": {
+            "name": "Saudi Arabia",
+            "slug": "saudi-arabia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "SA",
+              "alpha3": "SAU",
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia"
+            },
+            "id": 310,
+            "flag": "saudi-arabia",
+            "alpha2": "SA"
+          },
+          "uniqueTournament": {
+            "name": "Saudi Pro League",
+            "slug": "saudi-pro-league",
+            "primaryColorHex": "#0d1539",
+            "secondaryColorHex": "#61ab34",
+            "category": {
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "SA",
+                "alpha3": "SAU",
+                "name": "Saudi Arabia",
+                "slug": "saudi-arabia"
+              },
+              "id": 310,
+              "flag": "saudi-arabia",
+              "alpha2": "SA"
+            },
+            "userCount": 159613,
+            "country": {},
+            "id": 955,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 202,
+          "isLive": false,
+          "id": 3708
+        },
+        "primaryUniqueTournament": {
+          "name": "Saudi Pro League",
+          "slug": "saudi-pro-league",
+          "primaryColorHex": "#0d1539",
+          "secondaryColorHex": "#61ab34",
+          "category": {
+            "name": "Saudi Arabia",
+            "slug": "saudi-arabia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "SA",
+              "alpha3": "SAU",
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia"
+            },
+            "id": 310,
+            "flag": "saudi-arabia",
+            "alpha2": "SA"
+          },
+          "userCount": 159613,
+          "country": {},
+          "id": 955,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 779808,
+        "nameCode": "HIL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "SA",
+          "alpha3": "SAU",
+          "name": "Saudi Arabia",
+          "slug": "saudi-arabia"
+        },
+        "id": 21895,
+        "teamColors": {
+          "primary": "#0080ff",
+          "secondary": "#0080ff",
+          "text": "#0080ff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {},
+          "shortNameTranslation": {}
+        }
+      },
+      "transferDate": "2026-01-29T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Pedro Milans",
+        "firstName": "",
+        "lastName": "",
+        "slug": "milans-pedro",
+        "shortName": "P. Milans",
+        "position": "D",
+        "positionsDetailed": [
+          "DR"
+        ],
+        "jerseyNumber": "20",
+        "height": 171,
+        "dateOfBirth": "2002-03-24T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 1851,
+        "gender": "M",
+        "country": {
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "name": "Uruguay",
+          "slug": "uruguay"
+        },
+        "id": 985809,
+        "shirtNumber": 20,
+        "dateOfBirthTimestamp": 1016928000,
+        "contractUntilTimestamp": 1893369600,
+        "proposedMarketValue": 1400000,
+        "proposedMarketValueRaw": {
+          "value": 1400000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Peñarol",
+        "slug": "penarol",
+        "shortName": "Peñarol",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Liga AUF Uruguaya, Apertura",
+          "slug": "primera-division-apertura",
+          "category": {
+            "name": "Uruguay",
+            "slug": "uruguay",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "UY",
+              "alpha3": "URY",
+              "name": "Uruguay",
+              "slug": "uruguay"
+            },
+            "id": 57,
+            "flag": "uruguay",
+            "alpha2": "UY"
+          },
+          "uniqueTournament": {
+            "name": "Liga AUF Uruguaya",
+            "slug": "primera-division",
+            "primaryColorHex": "#0f4798",
+            "secondaryColorHex": "#c39d00",
+            "category": {
+              "name": "Uruguay",
+              "slug": "uruguay",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "UY",
+                "alpha3": "URY",
+                "name": "Uruguay",
+                "slug": "uruguay"
+              },
+              "id": 57,
+              "flag": "uruguay",
+              "alpha2": "UY"
+            },
+            "userCount": 11288,
+            "country": {},
+            "id": 278,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 0,
+          "roundPrefix": "Apertura",
+          "isLive": false,
+          "id": 57657
+        },
+        "primaryUniqueTournament": {
+          "name": "Liga AUF Uruguaya",
+          "slug": "primera-division",
+          "primaryColorHex": "#0f4798",
+          "secondaryColorHex": "#c39d00",
+          "category": {
+            "name": "Uruguay",
+            "slug": "uruguay",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "UY",
+              "alpha3": "URY",
+              "name": "Uruguay",
+              "slug": "uruguay"
+            },
+            "id": 57,
+            "flag": "uruguay",
+            "alpha2": "UY"
+          },
+          "userCount": 11288,
+          "country": {},
+          "id": 278,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 49475,
+        "nameCode": "PEN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "name": "Uruguay",
+          "slug": "uruguay"
+        },
+        "id": 3227,
+        "teamColors": {
+          "primary": "#000000",
+          "secondary": "#ffc400",
+          "text": "#ffc400"
+        }
+      },
+      "transferDate": "2026-01-21T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Matheus Pereira",
+        "firstName": "",
+        "lastName": "",
+        "slug": "pereira-matheus",
+        "shortName": "M. Pereira",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 68,
+        "jerseyNumber": "23",
+        "height": 181,
+        "dateOfBirth": "1998-02-25T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 3545,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 795268,
+        "shirtNumber": 23,
+        "dateOfBirthTimestamp": 888364800,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 1200000,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Fortaleza",
+        "slug": "fortaleza",
+        "shortName": "Fortaleza",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 138022,
+        "nameCode": "FOR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 2020,
+        "teamColors": {
+          "primary": "#0000ff",
+          "secondary": "#ff0000",
+          "text": "#ff0000"
+        }
+      },
+      "transferDate": "2026-01-16T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Gabriel Paulista",
+        "slug": "gabriel-paulista",
+        "shortName": "G. Paulista",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 72,
+        "jerseyNumber": "3",
+        "height": 187,
+        "dateOfBirth": "1990-11-26T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 5472,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 124737,
+        "shirtNumber": 3,
+        "dateOfBirthTimestamp": 659577600,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 730000,
+        "proposedMarketValueRaw": {
+          "value": 730000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Beşiktaş JK",
+        "slug": "besiktas",
+        "shortName": "Beşiktaş",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Trendyol Süper Lig",
+          "slug": "trendyol-super-lig",
+          "category": {
+            "name": "Turkey",
+            "slug": "turkey",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "TR",
+              "alpha3": "TUR",
+              "name": "Türkiye",
+              "slug": "turkiye"
+            },
+            "id": 46,
+            "flag": "turkey",
+            "alpha2": "TR"
+          },
+          "uniqueTournament": {
+            "name": "Trendyol Süper Lig",
+            "slug": "trendyol-super-lig",
+            "primaryColorHex": "#e51937",
+            "secondaryColorHex": "#adacac",
+            "category": {
+              "name": "Turkey",
+              "slug": "turkey",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "TR",
+                "alpha3": "TUR",
+                "name": "Türkiye",
+                "slug": "turkiye"
+              },
+              "id": 46,
+              "flag": "turkey",
+              "alpha2": "TR"
+            },
+            "userCount": 106493,
+            "country": {},
+            "id": 52,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 509,
+          "isLive": false,
+          "id": 62
+        },
+        "primaryUniqueTournament": {
+          "name": "Trendyol Süper Lig",
+          "slug": "trendyol-super-lig",
+          "primaryColorHex": "#e51937",
+          "secondaryColorHex": "#adacac",
+          "category": {
+            "name": "Turkey",
+            "slug": "turkey",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "TR",
+              "alpha3": "TUR",
+              "name": "Türkiye",
+              "slug": "turkiye"
+            },
+            "id": 46,
+            "flag": "turkey",
+            "alpha2": "TR"
+          },
+          "userCount": 106493,
+          "country": {},
+          "id": 52,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 296414,
+        "nameCode": "BES",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "name": "Türkiye",
+          "slug": "turkiye"
+        },
+        "id": 3050,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {},
+          "shortNameTranslation": {}
+        }
+      },
+      "transferDate": "2026-01-12T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Alex Santana",
+        "slug": "alex-santana",
+        "shortName": "A. Santana",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "jerseyNumber": "80",
+        "height": 182,
+        "dateOfBirth": "1995-05-13T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 2733,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 358166,
+        "shirtNumber": 80,
+        "dateOfBirthTimestamp": 800323200,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 1200000,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Grêmio",
+        "slug": "gremio",
+        "shortName": "Grêmio",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "primaryUniqueTournament": {
+          "name": "Brasileirão Betano",
+          "slug": "brasileirao-serie-a",
+          "primaryColorHex": "#C7FF00",
+          "secondaryColorHex": "#969696",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 305174,
+          "country": {},
+          "id": 325,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 219379,
+        "nameCode": "GRE",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 5926,
+        "teamColors": {
+          "primary": "#3399ff",
+          "secondary": "#000033",
+          "text": "#000033"
+        }
+      },
+      "transferDate": "2025-12-31T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Renato Santos",
+        "firstName": "",
+        "lastName": "",
+        "slug": "renato-santos",
+        "shortName": "R. Santos",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "jerseyNumber": "41",
+        "height": 188,
+        "dateOfBirth": "2004-10-11T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 868,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1411159,
+        "shirtNumber": 41,
+        "dateOfBirthTimestamp": 1097452800,
+        "contractUntilTimestamp": 1816992000,
+        "proposedMarketValue": 480000,
+        "proposedMarketValueRaw": {
+          "value": 480000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Atlético Goianiense",
+        "slug": "atletico-goianiense",
+        "shortName": "Atlético-GO",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 35215,
+        "nameCode": "GOI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 7314,
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2025-12-31T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Pedro Raul",
+        "slug": "pedro-raul",
+        "shortName": "P. Raul",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 86,
+        "jerseyNumber": "18",
+        "height": 191,
+        "dateOfBirth": "1996-11-05T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 7107,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 866911,
+        "shirtNumber": 18,
+        "dateOfBirthTimestamp": 847152000,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 3900000,
+        "proposedMarketValueRaw": {
+          "value": 3900000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Ceará",
+        "slug": "ceara",
+        "shortName": "Ceará",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 87248,
+        "nameCode": "CEA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 2001,
+        "teamColors": {
+          "primary": "#000000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2025-12-31T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "André Luiz",
+        "firstName": "André Luiz",
+        "slug": "andre-luiz",
+        "shortName": "A. Luiz",
+        "position": "M",
+        "jerseyNumber": "49",
+        "height": 181,
+        "dateOfBirth": "2006-06-20T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 2652,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1647612,
+        "shirtNumber": 49,
+        "dateOfBirthTimestamp": 1150761600,
+        "contractUntilTimestamp": 1893369600
+      },
+      "previousTeam": {
+        "name": "Corinthians U20",
+        "slug": "corinthians-u20",
+        "shortName": "Corinthians U20",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "U20 Brasileiro",
+          "slug": "u20-brasileiro",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "uniqueTournament": {
+            "name": "U20 Campeonato Brasileiro",
+            "slug": "u20-campeonato-brasileiro",
+            "primaryColorHex": "#000326",
+            "secondaryColorHex": "#acfe04",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "userCount": 5785,
+            "country": {},
+            "id": 9233,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 0,
+          "isLive": false,
+          "id": 73456
+        },
+        "primaryUniqueTournament": {
+          "name": "U20 Campeonato Brasileiro",
+          "slug": "u20-campeonato-brasileiro",
+          "primaryColorHex": "#000326",
+          "secondaryColorHex": "#acfe04",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 5785,
+          "country": {},
+          "id": 9233,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 23894,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Corinthians",
+          "slug": "corinthians",
+          "shortName": "Corinthians",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 556017,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 1957,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          }
+        },
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 72016,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2025-08-22T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Vitinho",
+        "slug": "vitinho",
+        "shortName": "Vitinho",
+        "position": "F",
+        "positionsDetailed": [
+          "LW",
+          "AM",
+          "ST"
+        ],
+        "weight": 73,
+        "jerseyNumber": "11",
+        "height": 178,
+        "dateOfBirth": "1993-10-09T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 4089,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 242054,
+        "shirtNumber": 11,
+        "dateOfBirthTimestamp": 750124800,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 915000,
+        "proposedMarketValueRaw": {
+          "value": 915000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Al-Ettifaq",
+        "slug": "al-ettifaq",
+        "shortName": "Al-Ettifaq",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Saudi Pro League",
+          "slug": "saudi-pro-league",
+          "category": {
+            "name": "Saudi Arabia",
+            "slug": "saudi-arabia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "SA",
+              "alpha3": "SAU",
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia"
+            },
+            "id": 310,
+            "flag": "saudi-arabia",
+            "alpha2": "SA"
+          },
+          "uniqueTournament": {
+            "name": "Saudi Pro League",
+            "slug": "saudi-pro-league",
+            "primaryColorHex": "#0d1539",
+            "secondaryColorHex": "#61ab34",
+            "category": {
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "SA",
+                "alpha3": "SAU",
+                "name": "Saudi Arabia",
+                "slug": "saudi-arabia"
+              },
+              "id": 310,
+              "flag": "saudi-arabia",
+              "alpha2": "SA"
+            },
+            "userCount": 159613,
+            "country": {},
+            "id": 955,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 202,
+          "isLive": false,
+          "id": 3708
+        },
+        "primaryUniqueTournament": {
+          "name": "Saudi Pro League",
+          "slug": "saudi-pro-league",
+          "primaryColorHex": "#0d1539",
+          "secondaryColorHex": "#61ab34",
+          "category": {
+            "name": "Saudi Arabia",
+            "slug": "saudi-arabia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "SA",
+              "alpha3": "SAU",
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia"
+            },
+            "id": 310,
+            "flag": "saudi-arabia",
+            "alpha2": "SA"
+          },
+          "userCount": 159613,
+          "country": {},
+          "id": 955,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 42238,
+        "nameCode": "ITT",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "SA",
+          "alpha3": "SAU",
+          "name": "Saudi Arabia",
+          "slug": "saudi-arabia"
+        },
+        "id": 34318,
+        "teamColors": {
+          "primary": "#177245",
+          "secondary": "#177245",
+          "text": "#177245"
+        }
+      },
+      "transferDate": "2025-08-11T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Dieguinho",
+        "firstName": "Diego",
+        "lastName": "da Cruz Lopes",
+        "slug": "diego-da-cruz-lopes",
+        "shortName": "Dieguinho",
+        "position": "M",
+        "positionsDetailed": [
+          "RW"
+        ],
+        "jerseyNumber": "61",
+        "height": 170,
+        "dateOfBirth": "2007-09-16T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 2565,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1916131,
+        "shirtNumber": 61,
+        "dateOfBirthTimestamp": 1189900800,
+        "contractUntilTimestamp": 1893369600,
+        "proposedMarketValue": 1500000,
+        "proposedMarketValueRaw": {
+          "value": 1500000,
+          "currency": "EUR"
+        },
+        "createdByEditor": true
+      },
+      "previousTeam": {
+        "name": "Corinthians U17",
+        "slug": "corinthians-u17",
+        "shortName": "Corinthians U17",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "primaryUniqueTournament": {
+          "name": "U17 Paulista",
+          "slug": "u17-paulista",
+          "primaryColorHex": "#29366d",
+          "secondaryColorHex": "#63aece",
+          "category": {
+            "name": "Brazil Amateur",
+            "slug": "brazil-amateur",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 1694,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 198,
+          "country": {},
+          "id": 22694,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 1702,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 504366,
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2025-07-01T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Gui Negão",
+        "slug": "guilherme-silva-inacio",
+        "shortName": "G. Negão",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "jerseyNumber": "56",
+        "height": 179,
+        "dateOfBirth": "2007-02-06T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 6715,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1922597,
+        "shirtNumber": 56,
+        "dateOfBirthTimestamp": 1170720000,
+        "contractUntilTimestamp": 1909008000,
+        "proposedMarketValue": 7600000,
+        "proposedMarketValueRaw": {
+          "value": 7600000,
+          "currency": "EUR"
+        },
+        "createdByEditor": true
+      },
+      "previousTeam": {
+        "name": "Corinthians U20",
+        "slug": "corinthians-u20",
+        "shortName": "Corinthians U20",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "U20 Brasileiro",
+          "slug": "u20-brasileiro",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "uniqueTournament": {
+            "name": "U20 Campeonato Brasileiro",
+            "slug": "u20-campeonato-brasileiro",
+            "primaryColorHex": "#000326",
+            "secondaryColorHex": "#acfe04",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "userCount": 5785,
+            "country": {},
+            "id": 9233,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 0,
+          "isLive": false,
+          "id": 73456
+        },
+        "primaryUniqueTournament": {
+          "name": "U20 Campeonato Brasileiro",
+          "slug": "u20-campeonato-brasileiro",
+          "primaryColorHex": "#000326",
+          "secondaryColorHex": "#acfe04",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 5785,
+          "country": {},
+          "id": 9233,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 23894,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Corinthians",
+          "slug": "corinthians",
+          "shortName": "Corinthians",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 556017,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 1957,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          }
+        },
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 72016,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2025-07-01T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Kauê",
+        "firstName": "Kauê",
+        "lastName": "",
+        "slug": "kaue",
+        "shortName": "Kauê",
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "weight": 95,
+        "jerseyNumber": "51",
+        "height": 190,
+        "dateOfBirth": "2004-02-08T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 1706,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1382923,
+        "shirtNumber": 51,
+        "dateOfBirthTimestamp": 1076198400,
+        "contractUntilTimestamp": 1893369600
+      },
+      "previousTeam": {
+        "name": "Corinthians U20",
+        "slug": "corinthians-u20",
+        "shortName": "Corinthians U20",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "U20 Brasileiro",
+          "slug": "u20-brasileiro",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "uniqueTournament": {
+            "name": "U20 Campeonato Brasileiro",
+            "slug": "u20-campeonato-brasileiro",
+            "primaryColorHex": "#000326",
+            "secondaryColorHex": "#acfe04",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "userCount": 5785,
+            "country": {},
+            "id": 9233,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 0,
+          "isLive": false,
+          "id": 73456
+        },
+        "primaryUniqueTournament": {
+          "name": "U20 Campeonato Brasileiro",
+          "slug": "u20-campeonato-brasileiro",
+          "primaryColorHex": "#000326",
+          "secondaryColorHex": "#acfe04",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 5785,
+          "country": {},
+          "id": 9233,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 23894,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Corinthians",
+          "slug": "corinthians",
+          "shortName": "Corinthians",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 556017,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 1957,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          }
+        },
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 72016,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2025-02-10T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Hugo Souza",
+        "slug": "hugo-souza",
+        "shortName": "H. Souza",
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "jerseyNumber": "1",
+        "height": 199,
+        "dateOfBirth": "1999-01-31T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 25831,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "hugosouza",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 950454,
+        "shirtNumber": 1,
+        "dateOfBirthTimestamp": 917740800,
+        "contractUntilTimestamp": 1924905600,
+        "proposedMarketValue": 9700000,
+        "proposedMarketValueRaw": {
+          "value": 9700000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Flamengo",
+        "slug": "flamengo",
+        "shortName": "Flamengo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "primaryUniqueTournament": {
+          "name": "Brasileirão Betano",
+          "slug": "brasileirao-serie-a",
+          "primaryColorHex": "#C7FF00",
+          "secondaryColorHex": "#969696",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 305174,
+          "country": {},
+          "id": 325,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 979209,
+        "nameCode": "FLA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 5981,
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Felipe Longo",
+        "slug": "felipe-longo",
+        "shortName": "F. Longo",
+        "position": "G",
+        "positionsDetailed": [
+          "GK"
+        ],
+        "weight": 88,
+        "jerseyNumber": "40",
+        "height": 189,
+        "dateOfBirth": "2005-03-05T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 2291,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1485272,
+        "shirtNumber": 40,
+        "dateOfBirthTimestamp": 1109980800,
+        "contractUntilTimestamp": 1869523200,
+        "proposedMarketValue": 475000,
+        "proposedMarketValueRaw": {
+          "value": 475000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Corinthians U20",
+        "slug": "corinthians-u20",
+        "shortName": "Corinthians U20",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "U20 Brasileiro",
+          "slug": "u20-brasileiro",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "uniqueTournament": {
+            "name": "U20 Campeonato Brasileiro",
+            "slug": "u20-campeonato-brasileiro",
+            "primaryColorHex": "#000326",
+            "secondaryColorHex": "#acfe04",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "userCount": 5785,
+            "country": {},
+            "id": 9233,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 0,
+          "isLive": false,
+          "id": 73456
+        },
+        "primaryUniqueTournament": {
+          "name": "U20 Campeonato Brasileiro",
+          "slug": "u20-campeonato-brasileiro",
+          "primaryColorHex": "#000326",
+          "secondaryColorHex": "#acfe04",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 5785,
+          "country": {},
+          "id": 9233,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 23894,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Corinthians",
+          "slug": "corinthians",
+          "shortName": "Corinthians",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 556017,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 1957,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          }
+        },
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 72016,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Kayke Ferrari",
+        "slug": "kayke-ferrari",
+        "shortName": "Kayke",
+        "position": "F",
+        "positionsDetailed": [
+          "LW"
+        ],
+        "jerseyNumber": "31",
+        "height": 179,
+        "dateOfBirth": "2004-04-28T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 2866,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1411152,
+        "shirtNumber": 31,
+        "dateOfBirthTimestamp": 1083110400,
+        "contractUntilTimestamp": 1814313600,
+        "proposedMarketValue": 720000,
+        "proposedMarketValueRaw": {
+          "value": 720000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Corinthians U20",
+        "slug": "corinthians-u20",
+        "shortName": "Corinthians U20",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "U20 Brasileiro",
+          "slug": "u20-brasileiro",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "uniqueTournament": {
+            "name": "U20 Campeonato Brasileiro",
+            "slug": "u20-campeonato-brasileiro",
+            "primaryColorHex": "#000326",
+            "secondaryColorHex": "#acfe04",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "userCount": 5785,
+            "country": {},
+            "id": 9233,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 0,
+          "isLive": false,
+          "id": 73456
+        },
+        "primaryUniqueTournament": {
+          "name": "U20 Campeonato Brasileiro",
+          "slug": "u20-campeonato-brasileiro",
+          "primaryColorHex": "#000326",
+          "secondaryColorHex": "#acfe04",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 5785,
+          "country": {},
+          "id": 9233,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 23894,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Corinthians",
+          "slug": "corinthians",
+          "shortName": "Corinthians",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 556017,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 1957,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          }
+        },
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 72016,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "João Pedro Tchoca",
+        "slug": "joao-pedro",
+        "shortName": "J. Pedro",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 82,
+        "jerseyNumber": "4",
+        "height": 192,
+        "dateOfBirth": "2003-12-31T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 3499,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1411150,
+        "shirtNumber": 4,
+        "dateOfBirthTimestamp": 1072828800,
+        "contractUntilTimestamp": 1924905600,
+        "proposedMarketValue": 1900000,
+        "proposedMarketValueRaw": {
+          "value": 1900000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Ceará",
+        "slug": "ceara",
+        "shortName": "Ceará",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 87248,
+        "nameCode": "CEA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 2001,
+        "teamColors": {
+          "primary": "#000000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2024-12-31T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "André Carrillo",
+        "slug": "andre-carrillo",
+        "shortName": "A. Carrillo",
+        "position": "M",
+        "positionsDetailed": [
+          "MC"
+        ],
+        "weight": 78,
+        "jerseyNumber": "19",
+        "height": 180,
+        "dateOfBirth": "1991-06-14T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 14530,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "18andrecarrillo",
+        "country": {
+          "alpha2": "PE",
+          "alpha3": "PER",
+          "name": "Peru",
+          "slug": "peru"
+        },
+        "id": 115182,
+        "shirtNumber": 19,
+        "dateOfBirthTimestamp": 676857600,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 845000,
+        "proposedMarketValueRaw": {
+          "value": 845000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Al-Qadsiah",
+        "slug": "al-qadisiyah",
+        "shortName": "Al-Qadsiah",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "King's Cup",
+          "slug": "kings-cup",
+          "category": {
+            "name": "Saudi Arabia",
+            "slug": "saudi-arabia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "SA",
+              "alpha3": "SAU",
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia"
+            },
+            "id": 310,
+            "flag": "saudi-arabia",
+            "alpha2": "SA"
+          },
+          "uniqueTournament": {
+            "name": "King's Cup",
+            "slug": "kings-cup",
+            "primaryColorHex": "#376826",
+            "secondaryColorHex": "#c6a020",
+            "category": {
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "SA",
+                "alpha3": "SAU",
+                "name": "Saudi Arabia",
+                "slug": "saudi-arabia"
+              },
+              "id": 310,
+              "flag": "saudi-arabia",
+              "alpha2": "SA"
+            },
+            "userCount": 22126,
+            "country": {},
+            "id": 2058,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 469,
+          "isLive": false,
+          "id": 42021
+        },
+        "primaryUniqueTournament": {
+          "name": "Saudi Pro League",
+          "slug": "saudi-pro-league",
+          "primaryColorHex": "#0d1539",
+          "secondaryColorHex": "#61ab34",
+          "category": {
+            "name": "Saudi Arabia",
+            "slug": "saudi-arabia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "SA",
+              "alpha3": "SAU",
+              "name": "Saudi Arabia",
+              "slug": "saudi-arabia"
+            },
+            "id": 310,
+            "flag": "saudi-arabia",
+            "alpha2": "SA"
+          },
+          "userCount": 159613,
+          "country": {},
+          "id": 955,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 64808,
+        "nameCode": "QAD",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "SA",
+          "alpha3": "SAU",
+          "name": "Saudi Arabia",
+          "slug": "saudi-arabia"
+        },
+        "id": 56027,
+        "teamColors": {
+          "primary": "#cc0000",
+          "secondary": "#cc0000",
+          "text": "#cc0000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {},
+          "shortNameTranslation": {}
+        }
+      },
+      "transferDate": "2024-09-10T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Memphis Depay",
+        "slug": "memphis-depay",
+        "shortName": "M. Depay",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 78,
+        "jerseyNumber": "10",
+        "height": 176,
+        "dateOfBirth": "1994-02-13T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 75414,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "Memphis",
+        "country": {
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "name": "Netherlands",
+          "slug": "netherlands"
+        },
+        "id": 138833,
+        "shirtNumber": 10,
+        "dateOfBirthTimestamp": 761097600,
+        "contractUntilTimestamp": 1785456000,
+        "proposedMarketValue": 8300000,
+        "proposedMarketValueRaw": {
+          "value": 8300000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "No team",
+        "slug": "no-team",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 11,
+        "nameCode": "NTE",
+        "disabled": true,
+        "national": false,
+        "type": 0,
+        "country": {},
+        "id": 241802,
+        "teamColors": {
+          "primary": "#d0d0d0",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2024-09-09T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Charles",
+        "slug": "charles",
+        "shortName": "Charles",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 81,
+        "jerseyNumber": "35",
+        "height": 187,
+        "dateOfBirth": "1996-06-19T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 3621,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 845178,
+        "shirtNumber": 35,
+        "dateOfBirthTimestamp": 835142400,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 970000,
+        "proposedMarketValueRaw": {
+          "value": 970000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "FC Midtjylland",
+        "slug": "fc-midtjylland",
+        "shortName": "Midtjylland",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Danish Superliga",
+          "slug": "superliga",
+          "category": {
+            "name": "Denmark",
+            "slug": "denmark",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "DK",
+              "alpha3": "DNK",
+              "name": "Denmark",
+              "slug": "denmark"
+            },
+            "id": 8,
+            "flag": "denmark",
+            "alpha2": "DK"
+          },
+          "uniqueTournament": {
+            "name": "Danish Superliga",
+            "slug": "superliga",
+            "primaryColorHex": "#015a9c",
+            "secondaryColorHex": "#4199da",
+            "category": {
+              "name": "Denmark",
+              "slug": "denmark",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "DK",
+                "alpha3": "DNK",
+                "name": "Denmark",
+                "slug": "denmark"
+              },
+              "id": 8,
+              "flag": "denmark",
+              "alpha2": "DK"
+            },
+            "userCount": 33810,
+            "country": {},
+            "id": 39,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 255,
+          "isLive": false,
+          "id": 12
+        },
+        "primaryUniqueTournament": {
+          "name": "Danish Superliga",
+          "slug": "superliga",
+          "primaryColorHex": "#015a9c",
+          "secondaryColorHex": "#4199da",
+          "category": {
+            "name": "Denmark",
+            "slug": "denmark",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "DK",
+              "alpha3": "DNK",
+              "name": "Denmark",
+              "slug": "denmark"
+            },
+            "id": 8,
+            "flag": "denmark",
+            "alpha2": "DK"
+          },
+          "userCount": 33810,
+          "country": {},
+          "id": 39,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 129628,
+        "nameCode": "FCM",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "DK",
+          "alpha3": "DNK",
+          "name": "Denmark",
+          "slug": "denmark"
+        },
+        "id": 1289,
+        "teamColors": {
+          "primary": "#000000",
+          "secondary": "#cc0000",
+          "text": "#cc0000"
+        }
+      },
+      "transferDate": "2024-07-24T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "André Ramalho",
+        "slug": "andre-ramalho",
+        "shortName": "A. Ramalho",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 78,
+        "jerseyNumber": "5",
+        "height": 182,
+        "dateOfBirth": "1992-02-16T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 5391,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 148155,
+        "shirtNumber": 5,
+        "dateOfBirthTimestamp": 698198400,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 1200000,
+        "proposedMarketValueRaw": {
+          "value": 1200000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "PSV Eindhoven",
+        "slug": "psv-eindhoven",
+        "shortName": "PSV",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "VriendenLoterij Eredivisie",
+          "slug": "eredivisie",
+          "category": {
+            "name": "Netherlands",
+            "slug": "netherlands",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "NL",
+              "alpha3": "NLD",
+              "name": "Netherlands",
+              "slug": "netherlands"
+            },
+            "id": 35,
+            "flag": "netherlands",
+            "alpha2": "NL"
+          },
+          "uniqueTournament": {
+            "name": "VriendenLoterij Eredivisie",
+            "slug": "eredivisie",
+            "primaryColorHex": "#292766",
+            "secondaryColorHex": "#7c79c3",
+            "category": {
+              "name": "Netherlands",
+              "slug": "netherlands",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "NL",
+                "alpha3": "NLD",
+                "name": "Netherlands",
+                "slug": "netherlands"
+              },
+              "id": 35,
+              "flag": "netherlands",
+              "alpha2": "NL"
+            },
+            "userCount": 150007,
+            "country": {},
+            "id": 37,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 513,
+          "isLive": false,
+          "id": 39
+        },
+        "primaryUniqueTournament": {
+          "name": "VriendenLoterij Eredivisie",
+          "slug": "eredivisie",
+          "primaryColorHex": "#292766",
+          "secondaryColorHex": "#7c79c3",
+          "category": {
+            "name": "Netherlands",
+            "slug": "netherlands",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "NL",
+              "alpha3": "NLD",
+              "name": "Netherlands",
+              "slug": "netherlands"
+            },
+            "id": 35,
+            "flag": "netherlands",
+            "alpha2": "NL"
+          },
+          "userCount": 150007,
+          "country": {},
+          "id": 37,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 476412,
+        "nameCode": "PSV",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "name": "Netherlands",
+          "slug": "netherlands"
+        },
+        "id": 2952,
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2024-07-16T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Breno Bidon",
+        "slug": "breno-bidon",
+        "shortName": "B. Bidon",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "weight": 70,
+        "jerseyNumber": "7",
+        "height": 174,
+        "dateOfBirth": "2005-02-20T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "retired": false,
+        "userCount": 10167,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "BrenoBidon",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1199261,
+        "shirtNumber": 7,
+        "dateOfBirthTimestamp": 1108857600,
+        "contractUntilTimestamp": 1893369600,
+        "proposedMarketValue": 12900000,
+        "proposedMarketValueRaw": {
+          "value": 12900000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Corinthians U20",
+        "slug": "corinthians-u20",
+        "shortName": "Corinthians U20",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "U20 Brasileiro",
+          "slug": "u20-brasileiro",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "uniqueTournament": {
+            "name": "U20 Campeonato Brasileiro",
+            "slug": "u20-campeonato-brasileiro",
+            "primaryColorHex": "#000326",
+            "secondaryColorHex": "#acfe04",
+            "category": {
+              "name": "Brazil",
+              "slug": "brazil",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "BR",
+                "alpha3": "BRA",
+                "name": "Brazil",
+                "slug": "brazil"
+              },
+              "id": 13,
+              "flag": "brazil",
+              "alpha2": "BR"
+            },
+            "userCount": 5785,
+            "country": {},
+            "id": 9233,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 0,
+          "isLive": false,
+          "id": 73456
+        },
+        "primaryUniqueTournament": {
+          "name": "U20 Campeonato Brasileiro",
+          "slug": "u20-campeonato-brasileiro",
+          "primaryColorHex": "#000326",
+          "secondaryColorHex": "#acfe04",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 5785,
+          "country": {},
+          "id": 9233,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 23894,
+        "nameCode": "COR",
+        "disabled": false,
+        "national": false,
+        "parentTeam": {
+          "name": "Corinthians",
+          "slug": "corinthians",
+          "shortName": "Corinthians",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 556017,
+          "nameCode": "COR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "country": {
+            "alpha2": "BR",
+            "alpha3": "BRA",
+            "name": "Brazil",
+            "slug": "brazil"
+          },
+          "id": 1957,
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#000000",
+            "text": "#000000"
+          }
+        },
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 72016,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2024-03-01T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Matheuzinho",
+        "slug": "matheuzinho",
+        "shortName": "Matheuzinho",
+        "position": "D",
+        "positionsDetailed": [
+          "DR",
+          "MR"
+        ],
+        "jerseyNumber": "2",
+        "height": 171,
+        "dateOfBirth": "2000-09-08T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 7354,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "mateuzinhoo",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 931540,
+        "shirtNumber": 2,
+        "dateOfBirthTimestamp": 968371200,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 6200000,
+        "proposedMarketValueRaw": {
+          "value": 6200000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Flamengo",
+        "slug": "flamengo",
+        "shortName": "Flamengo",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "primaryUniqueTournament": {
+          "name": "Brasileirão Betano",
+          "slug": "brasileirao-serie-a",
+          "primaryColorHex": "#C7FF00",
+          "secondaryColorHex": "#969696",
+          "category": {
+            "name": "Brazil",
+            "slug": "brazil",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "BR",
+              "alpha3": "BRA",
+              "name": "Brazil",
+              "slug": "brazil"
+            },
+            "id": 13,
+            "flag": "brazil",
+            "alpha2": "BR"
+          },
+          "userCount": 305174,
+          "country": {},
+          "id": 325,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 979209,
+        "nameCode": "FLA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 5981,
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#000000",
+          "text": "#000000"
+        }
+      },
+      "transferDate": "2024-02-16T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Gustavo Henrique",
+        "slug": "gustavo-henrique",
+        "shortName": "G. Henrique",
+        "position": "D",
+        "positionsDetailed": [
+          "DC"
+        ],
+        "weight": 89,
+        "jerseyNumber": "13",
+        "height": 195,
+        "dateOfBirth": "1993-03-24T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 5525,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 243181,
+        "shirtNumber": 13,
+        "dateOfBirthTimestamp": 732931200,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 725000,
+        "proposedMarketValueRaw": {
+          "value": 725000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Real Valladolid",
+        "slug": "real-valladolid",
+        "shortName": "Real Valladolid",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "LaLiga 2",
+          "slug": "laliga-2",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "ES",
+              "alpha3": "ESP",
+              "name": "Spain",
+              "slug": "spain"
+            },
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES"
+          },
+          "uniqueTournament": {
+            "name": "LaLiga 2",
+            "slug": "laliga-2",
+            "primaryColorHex": "#2f4a89",
+            "secondaryColorHex": "#e89823",
+            "category": {
+              "name": "Spain",
+              "slug": "spain",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "ES",
+                "alpha3": "ESP",
+                "name": "Spain",
+                "slug": "spain"
+              },
+              "id": 32,
+              "flag": "spain",
+              "alpha2": "ES"
+            },
+            "userCount": 49966,
+            "country": {},
+            "id": 54,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 353,
+          "isLive": false,
+          "id": 37
+        },
+        "primaryUniqueTournament": {
+          "name": "LaLiga 2",
+          "slug": "laliga-2",
+          "primaryColorHex": "#2f4a89",
+          "secondaryColorHex": "#e89823",
+          "category": {
+            "name": "Spain",
+            "slug": "spain",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "ES",
+              "alpha3": "ESP",
+              "name": "Spain",
+              "slug": "spain"
+            },
+            "id": 32,
+            "flag": "spain",
+            "alpha2": "ES"
+          },
+          "userCount": 49966,
+          "country": {},
+          "id": 54,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 84242,
+        "nameCode": "VLL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "ES",
+          "alpha3": "ESP",
+          "name": "Spain",
+          "slug": "spain"
+        },
+        "id": 2831,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#663399",
+          "text": "#663399"
+        }
+      },
+      "transferDate": "2024-01-15T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Hugo",
+        "slug": "hugo",
+        "shortName": "Hugo",
+        "position": "D",
+        "positionsDetailed": [
+          "DL"
+        ],
+        "jerseyNumber": "46",
+        "height": 179,
+        "dateOfBirth": "1997-08-29T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 3190,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1017827,
+        "shirtNumber": 46,
+        "dateOfBirthTimestamp": 872812800,
+        "contractUntilTimestamp": 1798675200,
+        "proposedMarketValue": 1100000,
+        "proposedMarketValueRaw": {
+          "value": 1100000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Goiás",
+        "slug": "goias",
+        "shortName": "Goiás",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 47594,
+        "nameCode": "GGO",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 1960,
+        "teamColors": {
+          "primary": "#006633",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2024-01-11T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Rodrigo Garro",
+        "slug": "rodrigo-garro",
+        "shortName": "R. Garro",
+        "position": "M",
+        "positionsDetailed": [
+          "AM"
+        ],
+        "jerseyNumber": "8",
+        "height": 174,
+        "dateOfBirth": "1998-01-04T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 33004,
+        "deceased": false,
+        "gender": "M",
+        "injury": {
+          "reason": "Tired",
+          "status": "dayToDay",
+          "id": 11804,
+          "startDateTimestamp": 1764547200,
+          "updateDateTimestamp": 1764936068,
+          "endDateTimestamp": 1764979200
+        },
+        "sofascoreId": "rodrigarroo",
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 994454,
+        "shirtNumber": 8,
+        "dateOfBirthTimestamp": 883872000,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 11600000,
+        "proposedMarketValueRaw": {
+          "value": 11600000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "CA Talleres",
+        "slug": "talleres",
+        "shortName": "Talleres",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Liga Profesional de Fútbol",
+          "slug": "liga-profesional",
+          "category": {
+            "name": "Argentina",
+            "slug": "argentina",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "AR",
+              "alpha3": "ARG",
+              "name": "Argentina",
+              "slug": "argentina"
+            },
+            "id": 48,
+            "flag": "argentina",
+            "alpha2": "AR"
+          },
+          "uniqueTournament": {
+            "name": "Liga Profesional de Fútbol",
+            "slug": "liga-profesional-de-futbol",
+            "primaryColorHex": "#0cbad8",
+            "secondaryColorHex": "#daa813",
+            "category": {
+              "name": "Argentina",
+              "slug": "argentina",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "AR",
+                "alpha3": "ARG",
+                "name": "Argentina",
+                "slug": "argentina"
+              },
+              "id": 48,
+              "flag": "argentina",
+              "alpha2": "AR"
+            },
+            "userCount": 56636,
+            "country": {},
+            "id": 155,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 431,
+          "isLive": false,
+          "id": 68
+        },
+        "primaryUniqueTournament": {
+          "name": "Liga Profesional de Fútbol",
+          "slug": "liga-profesional-de-futbol",
+          "primaryColorHex": "#0cbad8",
+          "secondaryColorHex": "#daa813",
+          "category": {
+            "name": "Argentina",
+            "slug": "argentina",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "AR",
+              "alpha3": "ARG",
+              "name": "Argentina",
+              "slug": "argentina"
+            },
+            "id": 48,
+            "flag": "argentina",
+            "alpha2": "AR"
+          },
+          "userCount": 56636,
+          "country": {},
+          "id": 155,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 27705,
+        "nameCode": "CAT",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "name": "Argentina",
+          "slug": "argentina"
+        },
+        "id": 3210,
+        "teamColors": {
+          "primary": "#050040",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2024-01-02T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Raniele",
+        "firstName": "",
+        "lastName": "",
+        "slug": "raniele",
+        "shortName": "Raniele",
+        "position": "M",
+        "positionsDetailed": [
+          "MC",
+          "DM"
+        ],
+        "jerseyNumber": "14",
+        "height": 184,
+        "dateOfBirth": "1996-12-31T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "retired": false,
+        "userCount": 6235,
+        "gender": "M",
+        "sofascoreId": "R14niele",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 866392,
+        "shirtNumber": 14,
+        "dateOfBirthTimestamp": 851990400,
+        "contractUntilTimestamp": 1861833600,
+        "proposedMarketValue": 3200000,
+        "proposedMarketValueRaw": {
+          "value": 3200000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Cuiabá",
+        "slug": "cuiaba",
+        "shortName": "Cuiabá",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 37902,
+        "nameCode": "CUI",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 49202,
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#006600",
+          "text": "#006600"
+        }
+      },
+      "transferDate": "2024-01-01T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Yuri Alberto",
+        "slug": "yuri-alberto",
+        "shortName": "Y. Alberto",
+        "position": "F",
+        "positionsDetailed": [
+          "ST"
+        ],
+        "weight": 77,
+        "jerseyNumber": "9",
+        "height": 183,
+        "dateOfBirth": "2001-03-18T00:00:00+00:00",
+        "preferredFoot": "Right",
+        "userCount": 44951,
+        "deceased": false,
+        "gender": "M",
+        "sofascoreId": "yurialberto",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 905463,
+        "shirtNumber": 9,
+        "dateOfBirthTimestamp": 984873600,
+        "contractUntilTimestamp": 1909008000,
+        "proposedMarketValue": 23000000,
+        "proposedMarketValueRaw": {
+          "value": 23000000,
+          "currency": "EUR"
+        }
+      },
+      "previousTeam": {
+        "name": "Zenit St. Petersburg",
+        "slug": "zenit-st-petersburg",
+        "shortName": "Zenit",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "tournament": {
+          "name": "Premier League",
+          "slug": "premier-liga",
+          "category": {
+            "name": "Russia",
+            "slug": "russia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "RU",
+              "alpha3": "RUS",
+              "name": "Russia",
+              "slug": "russia"
+            },
+            "id": 21,
+            "flag": "russia",
+            "alpha2": "RU"
+          },
+          "uniqueTournament": {
+            "name": "Russian Premier League",
+            "slug": "premier-liga",
+            "primaryColorHex": "#2580C3",
+            "secondaryColorHex": "#E94A51",
+            "category": {
+              "name": "Russia",
+              "slug": "russia",
+              "sport": {
+                "name": "Football",
+                "slug": "football",
+                "id": 1
+              },
+              "country": {
+                "alpha2": "RU",
+                "alpha3": "RUS",
+                "name": "Russia",
+                "slug": "russia"
+              },
+              "id": 21,
+              "flag": "russia",
+              "alpha2": "RU"
+            },
+            "userCount": 28489,
+            "country": {},
+            "id": 203,
+            "displayInverseHomeAwayTeams": false
+          },
+          "priority": 93,
+          "isLive": false,
+          "id": 53
+        },
+        "primaryUniqueTournament": {
+          "name": "Russian Premier League",
+          "slug": "premier-liga",
+          "primaryColorHex": "#2580C3",
+          "secondaryColorHex": "#E94A51",
+          "category": {
+            "name": "Russia",
+            "slug": "russia",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "country": {
+              "alpha2": "RU",
+              "alpha3": "RUS",
+              "name": "Russia",
+              "slug": "russia"
+            },
+            "id": 21,
+            "flag": "russia",
+            "alpha2": "RU"
+          },
+          "userCount": 28489,
+          "country": {},
+          "id": 203,
+          "displayInverseHomeAwayTeams": false
+        },
+        "userCount": 96208,
+        "nameCode": "ZEN",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "country": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "name": "Russia",
+          "slug": "russia"
+        },
+        "id": 2321,
+        "teamColors": {
+          "primary": "#95e4ff",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        }
+      },
+      "transferDate": "2023-01-09T00:00:00+00:00"
+    },
+    {
+      "player": {
+        "name": "Matheus Bidu",
+        "slug": "matheus-bidu",
+        "shortName": "M. Bidu",
+        "position": "D",
+        "positionsDetailed": [
+          "DL",
+          "ML"
+        ],
+        "weight": 72,
+        "jerseyNumber": "21",
+        "height": 172,
+        "dateOfBirth": "1999-05-04T00:00:00+00:00",
+        "preferredFoot": "Left",
+        "userCount": 6350,
+        "deceased": false,
+        "gender": "M",
+        "country": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "name": "Brazil",
+          "slug": "brazil"
+        },
+        "id": 981703,
+        "shirtNumber": 21,
+        "dateOfBirthTimestamp": 925776000,
+        "contractUntilTimestamp": 1830211200,
+        "proposedMarketValue": 3100000,
+        "proposedMarketValueRaw": {
+          "value": 3100000,
+          "currency": "EUR"
+        }
+      },
+      "transferDate": "2023-01-01T00:00:00+00:00"
+    }
+  ],
+  "nationalTeamPlayerStatistics": [],
+  "teamDepthAssignments": null
+}

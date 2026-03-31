@@ -1,0 +1,41 @@
+# Ambiente virtual
+venv/
+# ENV/
+# env/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos temporários
+*.tmp
+*.log
+*.swp
+*.swo
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependência gerados automaticamente
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Configuração de IDEs
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos do Jupyter Notebook (se usar futuramente)
+.ipynb_checkpoints/
+
+# Arquivos de ambiente
+.env.development
+.env.production
+.env.test

@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+}
+
+.content {
+  margin-left: 240px;
+  padding: 20px;
+}
+
+li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+li:hover {
+  background: var(--bg-tertiary);
+}

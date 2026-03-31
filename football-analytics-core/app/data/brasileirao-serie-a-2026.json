@@ -1,0 +1,948 @@
+{
+    "standings": [
+        {
+            "type": "total",
+            "descriptions": [],
+            "rows": [
+                {
+                    "team": {
+                        "name": "Palmeiras",
+                        "slug": "palmeiras",
+                        "shortName": "Palmeiras",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 604081,
+                        "nameCode": "PAL",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1963,
+                        "teamColors": {
+                            "primary": "#339966",
+                            "secondary": "#336633",
+                            "text": "#336633"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Libertadores",
+                        "id": 19
+                    },
+                    "position": 1,
+                    "matches": 8,
+                    "wins": 6,
+                    "scoresFor": 17,
+                    "scoresAgainst": 8,
+                    "id": 2057541,
+                    "losses": 1,
+                    "draws": 1,
+                    "points": 19,
+                    "scoreDiffFormatted": "+9"
+                },
+                {
+                    "team": {
+                        "name": "Athletico",
+                        "slug": "athletico",
+                        "shortName": "Athletico",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 102779,
+                        "nameCode": "CAP",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1967,
+                        "teamColors": {
+                            "primary": "#000000",
+                            "secondary": "#cc0000",
+                            "text": "#cc0000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Libertadores",
+                        "id": 19
+                    },
+                    "position": 2,
+                    "matches": 8,
+                    "wins": 5,
+                    "scoresFor": 14,
+                    "scoresAgainst": 8,
+                    "id": 2057524,
+                    "losses": 2,
+                    "draws": 1,
+                    "points": 16,
+                    "scoreDiffFormatted": "+6"
+                },
+                {
+                    "team": {
+                        "name": "S\u00e3o Paulo",
+                        "slug": "sao-paulo",
+                        "shortName": "S\u00e3o Paulo",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 392976,
+                        "nameCode": "SPA",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1981,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Libertadores",
+                        "id": 19
+                    },
+                    "position": 3,
+                    "matches": 8,
+                    "wins": 5,
+                    "scoresFor": 10,
+                    "scoresAgainst": 5,
+                    "id": 2057538,
+                    "losses": 2,
+                    "draws": 1,
+                    "points": 16,
+                    "scoreDiffFormatted": "+5"
+                },
+                {
+                    "team": {
+                        "name": "Fluminense",
+                        "slug": "fluminense",
+                        "shortName": "Fluminense",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 315026,
+                        "nameCode": "FLU",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1961,
+                        "teamColors": {
+                            "primary": "#660000",
+                            "secondary": "#006633",
+                            "text": "#006633"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Libertadores",
+                        "id": 19
+                    },
+                    "position": 4,
+                    "matches": 8,
+                    "wins": 5,
+                    "scoresFor": 13,
+                    "scoresAgainst": 9,
+                    "id": 2057532,
+                    "losses": 2,
+                    "draws": 1,
+                    "points": 16,
+                    "scoreDiffFormatted": "+4"
+                },
+                {
+                    "team": {
+                        "name": "Flamengo",
+                        "slug": "flamengo",
+                        "shortName": "Flamengo",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 1010155,
+                        "nameCode": "FLA",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 5981,
+                        "teamColors": {
+                            "primary": "#ff0000",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Libertadores Qualification",
+                        "id": 20
+                    },
+                    "position": 5,
+                    "matches": 7,
+                    "wins": 4,
+                    "scoresFor": 13,
+                    "scoresAgainst": 5,
+                    "id": 2057527,
+                    "losses": 1,
+                    "draws": 2,
+                    "points": 14,
+                    "scoreDiffFormatted": "+8"
+                },
+                {
+                    "team": {
+                        "name": "Bahia",
+                        "slug": "bahia",
+                        "shortName": "Bahia",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 199079,
+                        "nameCode": "BAH",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1955,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#333399",
+                            "text": "#333399"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Sudamericana",
+                        "id": 21
+                    },
+                    "position": 6,
+                    "matches": 7,
+                    "wins": 4,
+                    "scoresFor": 9,
+                    "scoresAgainst": 7,
+                    "id": 2057530,
+                    "losses": 1,
+                    "draws": 2,
+                    "points": 14,
+                    "scoreDiffFormatted": "+2"
+                },
+                {
+                    "team": {
+                        "name": "Coritiba",
+                        "slug": "coritiba",
+                        "shortName": "Coritiba",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 55339,
+                        "nameCode": "COR",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1982,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#009966",
+                            "text": "#009966"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Sudamericana",
+                        "id": 21
+                    },
+                    "position": 7,
+                    "matches": 8,
+                    "wins": 4,
+                    "scoresFor": 9,
+                    "scoresAgainst": 8,
+                    "id": 2057526,
+                    "losses": 3,
+                    "draws": 1,
+                    "points": 13,
+                    "scoreDiffFormatted": "+1"
+                },
+                {
+                    "team": {
+                        "name": "Gr\u00eamio",
+                        "slug": "gremio",
+                        "shortName": "Gr\u00eamio",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 225160,
+                        "nameCode": "GRE",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 5926,
+                        "teamColors": {
+                            "primary": "#3399ff",
+                            "secondary": "#000033",
+                            "text": "#000033"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Sudamericana",
+                        "id": 21
+                    },
+                    "position": 8,
+                    "matches": 8,
+                    "wins": 3,
+                    "scoresFor": 13,
+                    "scoresAgainst": 12,
+                    "id": 2057533,
+                    "losses": 3,
+                    "draws": 2,
+                    "points": 11,
+                    "scoreDiffFormatted": "+1"
+                },
+                {
+                    "team": {
+                        "name": "Vasco da Gama",
+                        "slug": "vasco-da-gama",
+                        "shortName": "Vasco",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 315608,
+                        "nameCode": "VAS",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1974,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Sudamericana",
+                        "id": 21
+                    },
+                    "position": 9,
+                    "matches": 8,
+                    "wins": 3,
+                    "scoresFor": 13,
+                    "scoresAgainst": 13,
+                    "id": 2057528,
+                    "losses": 3,
+                    "draws": 2,
+                    "points": 11,
+                    "scoreDiffFormatted": "0"
+                },
+                {
+                    "team": {
+                        "name": "Vit\u00f3ria",
+                        "slug": "vitoria",
+                        "shortName": "Vit\u00f3ria",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 113100,
+                        "nameCode": "VIT",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1962,
+                        "teamColors": {
+                            "primary": "#ff0000",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Sudamericana",
+                        "id": 21
+                    },
+                    "position": 10,
+                    "matches": 7,
+                    "wins": 3,
+                    "scoresFor": 8,
+                    "scoresAgainst": 10,
+                    "id": 2057531,
+                    "losses": 3,
+                    "draws": 1,
+                    "points": 10,
+                    "scoreDiffFormatted": "-2"
+                },
+                {
+                    "team": {
+                        "name": "Corinthians",
+                        "slug": "corinthians",
+                        "shortName": "Corinthians",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 566621,
+                        "nameCode": "COR",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1957,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#000000",
+                            "text": "#000000"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Copa Sudamericana",
+                        "id": 21
+                    },
+                    "position": 11,
+                    "matches": 8,
+                    "wins": 2,
+                    "scoresFor": 7,
+                    "scoresAgainst": 7,
+                    "id": 2057539,
+                    "losses": 2,
+                    "draws": 4,
+                    "points": 10,
+                    "scoreDiffFormatted": "0"
+                },
+                {
+                    "team": {
+                        "name": "Internacional",
+                        "slug": "internacional",
+                        "shortName": "Internacional",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 195865,
+                        "nameCode": "INT",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1966,
+                        "teamColors": {
+                            "primary": "#cc0000",
+                            "secondary": "#cc0000",
+                            "text": "#cc0000"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 12,
+                    "matches": 8,
+                    "wins": 2,
+                    "scoresFor": 7,
+                    "scoresAgainst": 9,
+                    "id": 2057540,
+                    "losses": 4,
+                    "draws": 2,
+                    "points": 8,
+                    "scoreDiffFormatted": "-2"
+                },
+                {
+                    "team": {
+                        "name": "Atl\u00e9tico Mineiro",
+                        "slug": "atletico-mineiro",
+                        "shortName": "Atl\u00e9tico-MG",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 244618,
+                        "nameCode": "CAM",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1977,
+                        "teamColors": {
+                            "primary": "#000000",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 13,
+                    "matches": 8,
+                    "wins": 2,
+                    "scoresFor": 8,
+                    "scoresAgainst": 11,
+                    "id": 2057521,
+                    "losses": 4,
+                    "draws": 2,
+                    "points": 8,
+                    "scoreDiffFormatted": "-3"
+                },
+                {
+                    "team": {
+                        "name": "Red Bull Bragantino",
+                        "slug": "red-bull-bragantino",
+                        "shortName": "RB Bragantino",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 104287,
+                        "nameCode": "BRA",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1999,
+                        "teamColors": {
+                            "primary": "#363636",
+                            "secondary": "#d8d8d6",
+                            "text": "#d8d8d6"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 14,
+                    "matches": 8,
+                    "wins": 2,
+                    "scoresFor": 6,
+                    "scoresAgainst": 10,
+                    "id": 2057535,
+                    "losses": 4,
+                    "draws": 2,
+                    "points": 8,
+                    "scoreDiffFormatted": "-4"
+                },
+                {
+                    "team": {
+                        "name": "Chapecoense",
+                        "slug": "chapecoense",
+                        "shortName": "Chapecoense",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 40263,
+                        "nameCode": "CHA",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 21845,
+                        "teamColors": {
+                            "primary": "#009966",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 15,
+                    "matches": 7,
+                    "wins": 1,
+                    "scoresFor": 9,
+                    "scoresAgainst": 11,
+                    "id": 2057525,
+                    "losses": 2,
+                    "draws": 4,
+                    "points": 7,
+                    "scoreDiffFormatted": "-2"
+                },
+                {
+                    "team": {
+                        "name": "Santos",
+                        "slug": "santos",
+                        "shortName": "Santos",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 482838,
+                        "nameCode": "SAN",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1968,
+                        "teamColors": {
+                            "primary": "#ffffff",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        }
+                    },
+                    "descriptions": [],
+                    "position": 16,
+                    "matches": 8,
+                    "wins": 1,
+                    "scoresFor": 10,
+                    "scoresAgainst": 13,
+                    "id": 2057537,
+                    "losses": 3,
+                    "draws": 4,
+                    "points": 7,
+                    "scoreDiffFormatted": "-3"
+                },
+                {
+                    "team": {
+                        "name": "Botafogo",
+                        "slug": "botafogo",
+                        "shortName": "Botafogo",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 285184,
+                        "nameCode": "BOT",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1958,
+                        "teamColors": {
+                            "primary": "#000000",
+                            "secondary": "#ffffff",
+                            "text": "#ffffff"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Relegation",
+                        "id": 3
+                    },
+                    "position": 17,
+                    "matches": 7,
+                    "wins": 2,
+                    "scoresFor": 11,
+                    "scoresAgainst": 16,
+                    "id": 2057523,
+                    "losses": 5,
+                    "draws": 0,
+                    "points": 6,
+                    "scoreDiffFormatted": "-5"
+                },
+                {
+                    "team": {
+                        "name": "Mirassol",
+                        "slug": "mirassol",
+                        "shortName": "Mirassol",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 82383,
+                        "nameCode": "MIR",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 21982,
+                        "teamColors": {
+                            "primary": "#e8c728",
+                            "secondary": "#174c30",
+                            "text": "#174c30"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Relegation",
+                        "id": 3
+                    },
+                    "position": 18,
+                    "matches": 7,
+                    "wins": 1,
+                    "scoresFor": 8,
+                    "scoresAgainst": 10,
+                    "id": 2057534,
+                    "losses": 3,
+                    "draws": 3,
+                    "points": 6,
+                    "scoreDiffFormatted": "-2"
+                },
+                {
+                    "team": {
+                        "name": "Remo",
+                        "slug": "remo",
+                        "shortName": "Remo",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 55668,
+                        "nameCode": "CDR",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 2012,
+                        "teamColors": {
+                            "primary": "#182748",
+                            "secondary": "#222226",
+                            "text": "#222226"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Relegation",
+                        "id": 3
+                    },
+                    "position": 19,
+                    "matches": 8,
+                    "wins": 1,
+                    "scoresFor": 10,
+                    "scoresAgainst": 15,
+                    "id": 2057536,
+                    "losses": 4,
+                    "draws": 3,
+                    "points": 6,
+                    "scoreDiffFormatted": "-5"
+                },
+                {
+                    "team": {
+                        "name": "Cruzeiro",
+                        "slug": "cruzeiro",
+                        "shortName": "Cruzeiro",
+                        "gender": "M",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "userCount": 273223,
+                        "nameCode": "CRU",
+                        "disabled": false,
+                        "national": false,
+                        "type": 0,
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 1954,
+                        "teamColors": {
+                            "primary": "#0033cc",
+                            "secondary": "#0033cc",
+                            "text": "#0033cc"
+                        }
+                    },
+                    "descriptions": [],
+                    "promotion": {
+                        "text": "Relegation",
+                        "id": 3
+                    },
+                    "position": 20,
+                    "matches": 8,
+                    "wins": 0,
+                    "scoresFor": 8,
+                    "scoresAgainst": 16,
+                    "id": 2057529,
+                    "losses": 4,
+                    "draws": 4,
+                    "points": 4,
+                    "scoreDiffFormatted": "-8"
+                }
+            ],
+            "id": 239683,
+            "tournament": {
+                "name": "Brasileir\u00e3o Betano",
+                "slug": "brasileirao-serie-a",
+                "category": {
+                    "name": "Brazil",
+                    "slug": "brazil",
+                    "sport": {
+                        "name": "Football",
+                        "slug": "football",
+                        "id": 1
+                    },
+                    "country": {
+                        "alpha2": "BR",
+                        "alpha3": "BRA",
+                        "name": "Brazil",
+                        "slug": "brazil"
+                    },
+                    "id": 13,
+                    "flag": "brazil",
+                    "alpha2": "BR"
+                },
+                "uniqueTournament": {
+                    "name": "Brasileir\u00e3o Betano",
+                    "slug": "brasileirao-serie-a",
+                    "primaryColorHex": "#C7FF00",
+                    "secondaryColorHex": "#969696",
+                    "category": {
+                        "name": "Brazil",
+                        "slug": "brazil",
+                        "sport": {
+                            "name": "Football",
+                            "slug": "football",
+                            "id": 1
+                        },
+                        "country": {
+                            "alpha2": "BR",
+                            "alpha3": "BRA",
+                            "name": "Brazil",
+                            "slug": "brazil"
+                        },
+                        "id": 13,
+                        "flag": "brazil",
+                        "alpha2": "BR"
+                    },
+                    "userCount": 310573,
+                    "hasPerformanceGraphFeature": true,
+                    "country": {},
+                    "id": 325,
+                    "displayInverseHomeAwayTeams": false
+                },
+                "priority": 694,
+                "isGroup": false,
+                "isLive": false,
+                "id": 83
+            },
+            "name": "Brasileiro Serie A 2026",
+            "updatedAtTimestamp": 1774837671
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+.list {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  list-style: none;
+  padding: 0;
+}
+
+.item {
+  padding: 12px 14px;
+  border-radius: 8px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  cursor: pointer;
+
+  transition: all 0.2s ease;
+}
+
+.item:hover {
+  background: var(--bg-tertiary);
+  border-color: var(--accent);
+
+  transform: translateX(6px);
+
+  color: var(--accent);
+  font-weight: 600;
+
+  box-shadow: 0 0 10px rgba(212, 175, 55, 0.2);
+}
+
+.item:active {
+  transform: scale(0.97);
+}
