@@ -7,7 +7,6 @@ export interface ForceResponse {
   nodes: Node[];
 }
 
-
 export interface Country {
   name: string;
   alpha2: string;
@@ -29,3 +28,21 @@ export interface Player {
 export interface PlayersResponse {
   data: Player[];
 }
+export interface HeatmapPositionPoints {
+  x: number;
+  y: number;
+  count: number;
+}
+export interface HeatmapPositions {
+  points: HeatmapPositionPoints[];
+  matches: number;
+  events: any[];
+}
+
+export interface Heatmap {
+  player_id: number;
+  tournament_id: number;
+  season_id: number;
+  positions: HeatmapPositions;
+}
+

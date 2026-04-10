@@ -1,0 +1,17 @@
+.icon {
+  color: var(--accent);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.description {
+  font-size: 14px;
+  color: var(--text-secondary);
+  text-align: center;
+}

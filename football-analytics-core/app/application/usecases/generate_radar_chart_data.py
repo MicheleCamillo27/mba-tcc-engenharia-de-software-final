@@ -1,17 +1,17 @@
-import random
+# import random
 
 
-class GenerateRadarChartData:
+# class GenerateRadarChartData:
 
-    def execute(self, player_name: str):
+#     def execute(self, player_name: str):
 
-        return {
-            "player": player_name,
-            "metrics": {
-                "finishing": random.randint(60, 95),
-                "speed": random.randint(60, 95),
-                "dribbling": random.randint(60, 95),
-                "passing": random.randint(60, 95),
-                "physical": random.randint(60, 95)
-            }
-        }
+#         return {
+#             "player": player_name,
+#             "metrics": {
+#                 "chutes": random.randint(60, 95),
+#                 "velocidade": random.randint(60, 95),
+#                 "drible": random.randint(60, 95),
+#                 "passes": random.randint(60, 95),
+#                 "controle de bola": random.randint(60, 95)
+#             }
+#         }

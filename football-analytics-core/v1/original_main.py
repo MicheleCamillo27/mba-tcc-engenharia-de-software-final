@@ -67,44 +67,8 @@ if __name__ == "__main__":
 
 
 # -------------------------------------------------
-    player_id = 138833
-    tournament_id = 372
-    season_id = 86993
-
-    print("Buscando heatmap...")
-
-    data = score.player_heatmap_overall(
-        player_id,
-        tournament_id,
-        season_id
-    )
-
-    # plot_heatmap(
-    #     data,
-    #     player_name="Neymar Jr.",
-    #     competition="Brasileirão",
-    #     season="2026",
-    #     filename="heatmap_espn_style.png"
-    # )
-
-    # modelo 2
-    plot_heatmap(
-        data,
-        title="Heatmap do Jogador",
-        filename="heatmap_espn_style.png"
-    )
-
-
-
-
 
 
     # https://www.sofascore.com/api/v1/sofascore-news/pt/posts?page=1&per_page=12&categories=news-pt
     # print("statistics")
     # print(score.statistics(12117219))
-
-    # print("🔴 Jogos ao vivo:")
-    # print(score.live_events())
-
-    # print("\n📅 Jogos agendados:")
-    # print(score.scheduled_events())

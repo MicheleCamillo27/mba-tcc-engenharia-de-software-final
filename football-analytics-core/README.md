@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ### 4️⃣ Executar o projeto
 
 ```bash
-python main.py ou uvicorn app.interfaces.api.main:app --reload
+uvicorn app.interfaces.api.main:app --reload || python main.py
 ```
 
 <!-- uvicorn app.interfaces.api.main:app --reload -->

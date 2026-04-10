@@ -1,4 +1,9 @@
-export interface ListProps {
-  items: string[];
-  onClick: (value: string) => void;
+export interface PlayerListItem {
+  id: number;
+  name: string;
+}
+
+export interface ListProps<T = string> {
+  items: T[];
+  onClick: (value: T) => void;
 }

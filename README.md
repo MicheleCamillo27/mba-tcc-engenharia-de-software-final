@@ -234,7 +234,7 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
-python main.py ou uvicorn app.interfaces.api.main:app --reload ou python -m app.main
+python main.py ou uvicorn app.interfaces.api.main:app --reload
 ```
 
 ---

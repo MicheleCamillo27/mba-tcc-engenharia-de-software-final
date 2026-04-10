@@ -1,7 +1,7 @@
-class GetTeamsUseCase:
+# class GetTeamsUseCase:
 
-    def __init__(self, repository):
-        self.repository = repository
+#     def __init__(self, repository):
+#         self.repository = repository
 
-    def execute(self):
-        return self.repository.get_all()
+#     def execute(self):
+#         return self.repository.get_all()

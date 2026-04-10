@@ -1,76 +1,52 @@
-import { useEffect, useState } from "react";
-import { FaSearch } from "react-icons/fa";
+import { FaTrophy, FaUserAlt, FaUsers } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 
 import Sidebar from "../../components/Sidebar";
-import { Card } from "../../components/UI/Card";
 import Container from "../../components/UI/Container";
 import Content from "../../components/UI/Content";
-import Input from "../../components/UI/Input";
-import List from "../../components/UI/List";
+import NavigationCard from "../../components/UI/NavigationCard";
 
-import { getPlayers } from "../../services/players/playerService";
-import type { Player } from "../../services/players/types";
-
+import styles from "./style.module.css";
 
 export default function Home() {
-  const [players, setPlayers] = useState<Player[]>([]);
-  const [filteredPlayers, setFilteredPlayers] = useState<Player[]>([]);
   const navigate = useNavigate();
-
-  useEffect(() => {
-    async function fetchData() {
-      try {
-        const data = await getPlayers();
-
-        const sortedPlayers = [...data].sort((a, b) =>
-          a.name.localeCompare(b.name)
-        );
-
-        setPlayers(sortedPlayers);
-        setFilteredPlayers(sortedPlayers);
-
-      } catch (err) {
-        console.error("fetchData: ", err);
-      }
-    }
-
-    fetchData();
-  }, []);
-
-  function handleSearch(value: string) {
-    const filtered = players.filter((player) =>
-      player?.name.toLowerCase().includes(value.toLowerCase())
-    );
-
-    setFilteredPlayers(filtered);
-  }
 
   return (
     <Container>
       <Sidebar />
 
       <Content>
-        <Card>
-          <div style={{ marginBottom: "16px" }}>
-            <h1 style={{ display: "flex", alignItems: "center", gap: "8px" }}>
-              <FaSearch size={20} color="var(--accent)" />
-              Buscar Jogador
-            </h1>
+        <div className={styles.wrapper}>
+          <div className={styles.hero}>
+            <h1 className={styles.title}>Dashboard Futebol</h1>
+            <p className={styles.subtitle}>
+              Análise tática e desempenho de jogadores e times
+            </p>
           </div>
 
-          <div style={{ maxWidth: "500px", marginBottom: "16px" }}>
-            <Input
-              placeholder="Digite o nome do jogador..."
-              onChange={(e) => handleSearch(e.target.value)}
+          <div className={styles.cards}>
+            <NavigationCard
+              icon={<FaTrophy size={50} />}
+              title="Torneios"
+              description="Competições e campeonatos disponíveis"
+              onClick={() => navigate("/tournaments")}
+            />
+
+            <NavigationCard
+              icon={<FaUsers size={50} />}
+              title="Times"
+              description="Classificação, cores e elenco completo"
+              onClick={() => navigate("/teams")}
+            />
+
+            <NavigationCard
+              icon={<FaUserAlt size={50} />}
+              title="Jogadores"
+              description="Performance, radar e mapa de calor"
+              onClick={() => navigate("/players")}
             />
           </div>
-
-          <List
-            items={filteredPlayers?.map((p) => p.name)}
-            onClick={(name) => navigate(`/player/${name}`)}
-          />
-        </Card>
+        </div>
       </Content>
     </Container>
   );

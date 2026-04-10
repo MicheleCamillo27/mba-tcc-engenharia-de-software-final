@@ -1,0 +1,10 @@
+.header h1 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.search {
+  max-width: 400px;
+  margin: 16px 0 20px 0;
+}

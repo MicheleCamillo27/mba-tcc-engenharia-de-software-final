@@ -1,0 +1,13 @@
+.breadcrumb {
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.breadcrumb a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}

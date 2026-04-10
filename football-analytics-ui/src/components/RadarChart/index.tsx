@@ -16,7 +16,7 @@ export default function PlayerRadarChart({ data }: PlayerRadarChartProps) {
     <div
       style={{
         width: "100%",
-        height: 550,
+        height: "300px",
         display: "flex",
         justifyContent: "center",
         alignItems: "center"

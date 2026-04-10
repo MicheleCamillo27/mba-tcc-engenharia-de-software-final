@@ -1,10 +1,16 @@
-import { Link } from "react-router-dom";
+import { FaFutbol, FaHome, FaTrophy, FaUsers } from "react-icons/fa";
+import { IoIosFootball } from "react-icons/io";
+import { Link, useLocation } from "react-router-dom";
+
 import styles from "./style.module.css";
 
-import { FaHome } from "react-icons/fa";
-import { IoIosFootball } from "react-icons/io";
-
 export default function Sidebar() {
+  const location = useLocation();
+
+  function isActive(path: string) {
+    return location.pathname === path;
+  }
+
   return (
     <div className={styles.container}>
       <h2 className={styles.title}>
@@ -12,12 +18,25 @@ export default function Sidebar() {
         Football Analytics
       </h2>
 
-      <nav className={styles.nav}>
-        <Link to="/" className={styles.link}>
-          <FaHome size={20} />
-          Início
-        </Link>
-      </nav>
+      <Link to="/" className={`${styles.link} ${isActive("/") ? styles.active : ""}`}>
+        <FaHome />
+        Início
+      </Link>
+
+      <Link to="/tournaments" className={`${styles.link} ${isActive("/tournaments") ? styles.active : ""}`}>
+        <FaTrophy />
+        Torneios
+      </Link>
+
+      <Link to="/teams" className={`${styles.link} ${isActive("/teams") ? styles.active : ""}`}>
+        <FaUsers />
+        Times
+      </Link>
+
+      <Link to="/players" className={`${styles.link}`} >
+        <FaFutbol />
+        Jogadores
+      </Link>
     </div>
   );
 }

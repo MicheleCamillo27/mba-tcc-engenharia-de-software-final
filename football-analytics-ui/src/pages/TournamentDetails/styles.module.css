@@ -1,0 +1,32 @@
+.title {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.seasons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.seasonBtn {
+  padding: 8px 14px;
+  border-radius: 8px;
+  background: transparent;
+  color: #fff;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.seasonBtn:hover {
+  border-color: var(--accent);
+}
+
+.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}

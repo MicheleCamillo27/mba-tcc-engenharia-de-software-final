@@ -1,28 +1,28 @@
-class GenerateForceGraphData:
+# class GenerateForceGraphData:
 
-    def execute(self, players):
+#     def execute(self, players):
 
-        nodes = []
-        links = []
+#         nodes = []
+#         links = []
 
-        for player in players:
+#         for player in players:
 
-            nodes.append({
-                "id": player.name,
-                "group": "player"
-            })
+#             nodes.append({
+#                 "id": player.name,
+#                 "group": "player"
+#             })
 
-            nodes.append({
-                "id": player.team_name,
-                "group": "team"
-            })
+#             nodes.append({
+#                 "id": player.team_name,
+#                 "group": "team"
+#             })
 
-            links.append({
-                "source": player.name,
-                "target": player.team_name
-            })
+#             links.append({
+#                 "source": player.name,
+#                 "target": player.team_name
+#             })
 
-        return {
-            "nodes": nodes,
-            "links": links
-        }
+#         return {
+#             "nodes": nodes,
+#             "links": links
+#         }

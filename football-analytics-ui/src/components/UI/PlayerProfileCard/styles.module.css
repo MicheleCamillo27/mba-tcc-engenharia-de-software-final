@@ -1,0 +1,66 @@
+.container {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+}
+
+.imageContainer {
+  flex-shrink: 0;
+}
+
+.image {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--accent);
+}
+
+.info {
+  flex: 1;
+}
+
+.info h2 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px 24px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.item svg {
+  font-size: 20px;
+  color: var(--accent);
+}
+
+.item span {
+  display: block;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.item strong {
+  font-size: 16px;
+  color: var(--text-primary);
+}
+
+.row svg {
+  font-size: 14px;
+  color: var(--accent);
+  opacity: 0.9;
+}
+
+.grid p:hover .row svg {
+  transform: scale(1.1);
+  transition: 0.2s;
+}
