@@ -57,7 +57,7 @@ mba-tcc-engenharia-de-software/
 ├── football-analytics-core/
 │   ├── app/
 │   │   ├── application/
-│   │   │     ├── boletins_downloader_service_interface.py
+│   │   │     ├── downloader_service_interface.py
 │   │   │     │     ├── estatistica_downloader_service_interface.py
 │   │   │     │     ├── estatistica_extrator_service_interface.py
 │   │   │     │     ├── estatistica_file_saver_service_interface.py
