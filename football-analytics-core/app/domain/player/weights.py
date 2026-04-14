@@ -57,5 +57,5 @@ PLAYER_WEIGHTS = {
         "touches": 0.3,
         "possessionLost": -0.2,
         "dispossessed": -2,
-    }
+    }    
 }

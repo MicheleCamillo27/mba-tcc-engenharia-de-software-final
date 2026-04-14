@@ -1,16 +1,20 @@
 from datetime import datetime
 
 from app.domain.player.weights import PLAYER_WEIGHTS
-from app.domain.player.calculator import calculate_metric, normalize
+from app.domain.player.calculator import calculate_metric,normalize,  normalize_impact
+from app.domain.player.impact_calculator import calculate_impact_by_position
 
 
-def map_player_metrics(stats: dict) -> dict:
+def map_player_metrics(stats: dict, position: str) -> dict:
     result = {}
 
     for metric_name, weights in PLAYER_WEIGHTS.items():
         raw_value = calculate_metric(stats, weights)
         result[metric_name] = normalize(raw_value)
 
+    raw_impact = calculate_impact_by_position(stats, position)
+    print("RAW IMPACT:", raw_impact)
+    result["impacto"] = normalize_impact(raw_impact)
     return result
 
 

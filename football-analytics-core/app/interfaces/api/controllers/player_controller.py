@@ -49,11 +49,16 @@ def player_statistics_overall(player_id: int = 950454, tournament_id: int = 325,
     try:
         response = score.player_statistics_overall(player_id, tournament_id, season_id)
         stats = response["statistics"]
-        metrics = map_player_metrics(stats)
+
+        player_info = score.player(player_id)
+        position = player_info.get("player", {}).get("positionsDetailed", [""])[0]
+
+        metrics = map_player_metrics(stats, position)
 
         return {
             "player": player_id,
             "metrics": metrics
         }
+
     except Exception as e:
         return {"error": str(e)}

@@ -43,12 +43,28 @@ export default function Player() {
 
 
   const [radar, setRadar] = useState<any[]>([]);
+  const [impact, setImpact] = useState<number | null>(null);
   const [heatmap, setHeatmap] = useState<any>(null);
   const [analysis, setAnalysis] = useState<AnalysisResult | null>(null);
   const [playerDetails, setPlayerDetails] = useState<any>(null);
 
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+
+  const metricOrder = [
+    "impacto",
+    "chutes",
+    "passes",
+    "drible",
+    "velocidade",
+    "controle"
+  ];
+
+  function getImpactLevel(value: number) {
+    if (value >= 70) return "Alto impacto";
+    if (value >= 40) return "Impacto moderado";
+    return "Baixo impacto";
+  }
 
   useEffect(() => {
     async function fetchPlayerData() {
@@ -64,10 +80,14 @@ export default function Player() {
           getPlayerHeatmap(parsedPlayerId, parsedTournamentId, parsedSeasonId),
         ]);
 
-        const formattedRadar = Object.keys(radarRes?.metrics || {}).map((key) => ({
-          metric: key,
-          value: radarRes.metrics[key],
-        }));
+        setImpact(radarRes?.metrics?.impacto ?? null);
+
+        const formattedRadar = metricOrder
+          .filter(key => radarRes?.metrics?.[key] !== undefined)
+          .map(key => ({
+            metric: key.toUpperCase(),
+            value: radarRes.metrics[key],
+          }));
 
         setRadar(formattedRadar);
         setHeatmap(heatmapRes);
@@ -111,6 +131,8 @@ export default function Player() {
       <Content>
         <Breadcrumb items={items} />
 
+        <div style={{ padding: "0.7em" }}></div>
+
         {playerDetails && (
           <Card>
             <PlayerProfileCard
@@ -119,6 +141,7 @@ export default function Player() {
             />
           </Card>
         )}
+        <div style={{ padding: "0.7em" }}></div>
 
         {loading && <p>Carregando...</p>}
         {error && <p style={{ color: "red" }}>{error}</p>}
@@ -140,10 +163,25 @@ export default function Player() {
               </Card>
             )}
 
-            <div style={{ padding: "0.7em" }}></div>
+            <div style={{ padding: "0.7em" }}>
+              <CardHeader>
+                <h2>Temporada</h2>
+              </CardHeader>
+            </div>
 
-            <Grid columns={2}>
+            <Grid columns={3}>
+              {impact !== null && (
+                <Card>
+                  <CardHeader>
+                    <h2>Impacto no Jogo</h2>
+                  </CardHeader>
 
+                  <CardBody>
+                    <h3>{getImpactLevel(impact)}</h3>
+                    <ProgressBar label="Impacto geral" value={impact} />
+                  </CardBody>
+                </Card>
+              )}
               <Card>
                 <CardHeader>
                   <h2 style={{ display: "flex", gap: "8px", alignItems: "center" }}>

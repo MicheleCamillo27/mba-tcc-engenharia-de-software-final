@@ -1,3 +1,6 @@
+import math
+
+
 def calculate_metric(stats: dict, weights: dict) -> float:
     value = 0
 
@@ -8,5 +11,11 @@ def calculate_metric(stats: dict, weights: dict) -> float:
     return value
 
 
-def normalize(value: float) -> int:
-    return max(0, min(99, int(value)))
+def normalize(value: float) -> float:
+    max_value = 20
+
+    normalized = (value / max_value) * 100
+    return min(round(normalized, 2), 100)
+
+def normalize_impact(value: float) -> float:
+    return min(math.log1p(value) / math.log1p(300) * 100, 100)
